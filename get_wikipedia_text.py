@@ -26,11 +26,8 @@ def fetch_wikipedia_article():
                 text = re.sub(r'\[\d+\]', '', text)  # Remove numbered references
                 text = re.sub(r'\s+', ' ', text).strip()
 
-                return {
-                    "title": selected_title,
-                    "content": text
-                }
-            
+                return {selected_title, text}
+                        
             except wikipedia.DisambiguationError as e:
                 print(f"The title '{selected_title}' is ambiguous. Possible options are:\n{e.options}")
                 return None
