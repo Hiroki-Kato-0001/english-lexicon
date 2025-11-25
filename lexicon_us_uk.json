@@ -1,0 +1,2162 @@
+[
+  {
+    "id": "1",
+    "category": "spelling",
+    "uk": "behaviour",
+    "us": "behavior",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": null
+  },
+  {
+    "id": "2",
+    "category": "spelling",
+    "uk": "colour",
+    "us": "color",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": null
+  },
+  {
+    "id": "3",
+    "category": "spelling",
+    "uk": "favour",
+    "us": "favor",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": null
+  },
+  {
+    "id": "4",
+    "category": "spelling",
+    "uk": "flavour",
+    "us": "flavor",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": null
+  },
+  {
+    "id": "5",
+    "category": "word",
+    "uk": "trousers",
+    "us": "pants",
+    "source": "https://www.britishcouncilfoundation.id/en/english/articles/british-and-american-english",
+    "notes": null
+  },
+  {
+    "id": "6",
+    "category": "word",
+    "uk": "flat",
+    "us": "apartment",
+    "source": "https://www.britishcouncilfoundation.id/en/english/articles/british-and-american-english",
+    "notes": null
+  },
+  {
+    "id": "7",
+    "category": "word",
+    "uk": "bonnet",
+    "us": "hood",
+    "source": "https://www.britishcouncilfoundation.id/en/english/articles/british-and-american-english",
+    "notes": null
+  },
+  {
+    "id": "8",
+    "category": "word",
+    "uk": "boot",
+    "us": "trunk",
+    "source": "https://www.britishcouncilfoundation.id/en/english/articles/british-and-american-english",
+    "notes": null
+  },
+  {
+    "id": "9",
+    "category": "phrase",
+    "uk": "at the weekend",
+    "us": "on the weekend",
+    "source": "http://www.teacherdiane.com/blog/american-vs-british-english",
+    "notes": "optional"
+  },
+  {
+    "id": "10",
+    "category": "spelling",
+    "uk": "harbour",
+    "us": "harbor",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": null
+  },
+  {
+    "id": "11",
+    "category": "spelling",
+    "uk": "honour",
+    "us": "honor",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": null
+  },
+  {
+    "id": "12",
+    "category": "spelling",
+    "uk": "humour",
+    "us": "humor",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": null
+  },
+  {
+    "id": "13",
+    "category": "spelling",
+    "uk": "labour",
+    "us": "labor",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": null
+  },
+  {
+    "id": "14",
+    "category": "spelling",
+    "uk": "neighbour",
+    "us": "neighbor",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": null
+  },
+  {
+    "id": "15",
+    "category": "spelling",
+    "uk": "rumour",
+    "us": "rumor",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": null
+  },
+  {
+    "id": "16",
+    "category": "spelling",
+    "uk": "splendour",
+    "us": "splendor",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": null
+  },
+  {
+    "id": "17",
+    "category": "spelling",
+    "uk": "calibre",
+    "us": "caliber",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": null
+  },
+  {
+    "id": "18",
+    "category": "spelling",
+    "uk": "centre",
+    "us": "center",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": null
+  },
+  {
+    "id": "19",
+    "category": "spelling",
+    "uk": "fibre",
+    "us": "fiber",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": null
+  },
+  {
+    "id": "20",
+    "category": "spelling",
+    "uk": "litre",
+    "us": "liter",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": null
+  },
+  {
+    "id": "21",
+    "category": "spelling",
+    "uk": "lustre",
+    "us": "luster",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": null
+  },
+  {
+    "id": "22",
+    "category": "spelling",
+    "uk": "manoeuvre",
+    "us": "manoeuver",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": null
+  },
+  {
+    "id": "23",
+    "category": "spelling",
+    "uk": "meagre",
+    "us": "meager",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": null
+  },
+  {
+    "id": "24",
+    "category": "spelling",
+    "uk": "metre",
+    "us": "meter",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": null
+  },
+  {
+    "id": "25",
+    "category": "spelling",
+    "uk": "mitre",
+    "us": "miter",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": null
+  },
+  {
+    "id": "26",
+    "category": "spelling",
+    "uk": "nitre",
+    "us": "niter",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": null
+  },
+  {
+    "id": "27",
+    "category": "spelling",
+    "uk": "ochre",
+    "us": "ocher",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": null
+  },
+  {
+    "id": "28",
+    "category": "spelling",
+    "uk": "reconnoitre",
+    "us": "erconnoiter",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": null
+  },
+  {
+    "id": "29",
+    "category": "spelling",
+    "uk": "sabre",
+    "us": "saber",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": null
+  },
+  {
+    "id": "30",
+    "category": "spelling",
+    "uk": "saltpetre",
+    "us": "saltpeter",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": null
+  },
+  {
+    "id": "31",
+    "category": "spelling",
+    "uk": "sepulchre",
+    "us": "sepulcher",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": null
+  },
+  {
+    "id": "32",
+    "category": "spelling",
+    "uk": "sombre",
+    "us": "somber",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": null
+  },
+  {
+    "id": "33",
+    "category": "spelling",
+    "uk": "spectre",
+    "us": "specter",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": null
+  },
+  {
+    "id": "34",
+    "category": "spelling",
+    "uk": "theatre",
+    "us": "theater",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": null
+  },
+  {
+    "id": "35",
+    "category": "spelling",
+    "uk": "titre",
+    "us": "titer",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": null
+  },
+  {
+    "id": "36",
+    "category": "spelling",
+    "uk": "goitre",
+    "us": "goiter",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": null
+  },
+  {
+    "id": "37",
+    "category": "spelling",
+    "uk": "practise",
+    "us": "practice",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": null
+  },
+  {
+    "id": "38",
+    "category": "spelling",
+    "uk": "licence",
+    "us": "license",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": null
+  },
+  {
+    "id": "39",
+    "category": "spelling",
+    "uk": "defence",
+    "us": "defense",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": null
+  },
+  {
+    "id": "40",
+    "category": "spelling",
+    "uk": "offence",
+    "us": "offense",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": null
+  },
+  {
+    "id": "41",
+    "category": "spelling",
+    "uk": "aeon",
+    "us": "eon",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": null
+  },
+  {
+    "id": "42",
+    "category": "spelling",
+    "uk": "anaemia",
+    "us": "anemia",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": null
+  },
+  {
+    "id": "43",
+    "category": "spelling",
+    "uk": "anaesthesia",
+    "us": "anesthesia",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": null
+  },
+  {
+    "id": "44",
+    "category": "spelling",
+    "uk": "caecum",
+    "us": "cecum",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": null
+  },
+  {
+    "id": "45",
+    "category": "spelling",
+    "uk": "caesium",
+    "us": "cesium",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": null
+  },
+  {
+    "id": "46",
+    "category": "spelling",
+    "uk": "coeliac",
+    "us": "celiac",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": null
+  },
+  {
+    "id": "47",
+    "category": "spelling",
+    "uk": "diarrhoea",
+    "us": "diarrhea",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": null
+  },
+  {
+    "id": "48",
+    "category": "spelling",
+    "uk": "encyclopaedia",
+    "us": "encyclopedia",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": null
+  },
+  {
+    "id": "49",
+    "category": "spelling",
+    "uk": "faeces",
+    "us": "feces",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": null
+  },
+  {
+    "id": "50",
+    "category": "spelling",
+    "uk": "foetal",
+    "us": "fetal",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": null
+  },
+  {
+    "id": "51",
+    "category": "spelling",
+    "uk": "gynaecology",
+    "us": "gynecology",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": null
+  },
+  {
+    "id": "52",
+    "category": "spelling",
+    "uk": "haemoglobin",
+    "us": "hemoglobin",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": null
+  },
+  {
+    "id": "53",
+    "category": "spelling",
+    "uk": "haemophilia",
+    "us": "hemophilia",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": null
+  },
+  {
+    "id": "54",
+    "category": "spelling",
+    "uk": "leukaemia",
+    "us": "leukemia",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": null
+  },
+  {
+    "id": "55",
+    "category": "spelling",
+    "uk": "oesophagus",
+    "us": "esophagus",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": null
+  },
+  {
+    "id": "56",
+    "category": "spelling",
+    "uk": "oestrogen",
+    "us": "estrogen",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": null
+  },
+  {
+    "id": "57",
+    "category": "spelling",
+    "uk": "orthopaedic",
+    "us": "orthopedic",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": null
+  },
+  {
+    "id": "58",
+    "category": "spelling",
+    "uk": "palaeontology",
+    "us": "paleontology",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": null
+  },
+  {
+    "id": "59",
+    "category": "spelling",
+    "uk": "paediatric",
+    "us": "pediatric",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": null
+  },
+  {
+    "id": "60",
+    "category": "spelling",
+    "uk": "paedophile",
+    "us": "pedophile",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": null
+  },
+  {
+    "id": "61",
+    "category": "spelling",
+    "uk": "oenology",
+    "us": "enology",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": null
+  },
+  {
+    "id": "62",
+    "category": "spelling",
+    "uk": "haem",
+    "us": "heme",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": null
+  },
+  {
+    "id": "63",
+    "category": "phrase",
+    "uk": "fill in",
+    "us": "fill out",
+    "source": "https://intrepidenglish.co.uk/podcasts/handy-phrasal-verbs-in-the-us-or-uk/",
+    "notes": null
+  },
+  {
+    "id": "64",
+    "category": "phrase",
+    "uk": "chase up",
+    "us": "track down",
+    "source": "https://intrepidenglish.co.uk/podcasts/handy-phrasal-verbs-in-the-us-or-uk/",
+    "notes": null
+  },
+  {
+    "id": "65",
+    "category": "phrase",
+    "uk": "chase up",
+    "us": "scare up",
+    "source": "https://intrepidenglish.co.uk/podcasts/handy-phrasal-verbs-in-the-us-or-uk/",
+    "notes": null
+  },
+  {
+    "id": "66",
+    "category": "phrase",
+    "uk": "be rained off",
+    "us": "be rained out",
+    "source": "https://intrepidenglish.co.uk/podcasts/handy-phrasal-verbs-in-the-us-or-uk/",
+    "notes": null
+  },
+  {
+    "id": "67",
+    "category": "phrase",
+    "uk": "shoot off",
+    "us": "bail out",
+    "source": "https://intrepidenglish.co.uk/podcasts/handy-phrasal-verbs-in-the-us-or-uk/",
+    "notes": null
+  },
+  {
+    "id": "68",
+    "category": "phrase",
+    "uk": "get on",
+    "us": "get along",
+    "source": "https://intrepidenglish.co.uk/podcasts/handy-phrasal-verbs-in-the-us-or-uk/",
+    "notes": null
+  },
+  {
+    "id": "69",
+    "category": "phrase",
+    "uk": "tell off",
+    "us": "bawl out",
+    "source": "https://blog.cambridge.es/media-gallery/4351/",
+    "notes": null
+  },
+  {
+    "id": "70",
+    "category": "phrase",
+    "uk": "work out",
+    "us": "figure out",
+    "source": "https://blog.cambridge.es/media-gallery/4351/",
+    "notes": null
+  },
+  {
+    "id": "71",
+    "category": "phrase",
+    "uk": "mess about",
+    "us": "goof off",
+    "source": "https://blog.cambridge.es/media-gallery/4351/",
+    "notes": null
+  },
+  {
+    "id": "72",
+    "category": "phrase",
+    "uk": "mess around",
+    "us": "goof around",
+    "source": "https://blog.cambridge.es/media-gallery/4351/",
+    "notes": null
+  },
+  {
+    "id": "73",
+    "category": "phrase",
+    "uk": "freshen up",
+    "us": "wash up",
+    "source": "https://blog.cambridge.es/media-gallery/4351/",
+    "notes": null
+  },
+  {
+    "id": "74",
+    "category": "phrase",
+    "uk": "at Christmas",
+    "us": "on Christmas",
+    "source": "http://www.teacherdiane.com/blog/american-vs-british-english",
+    "notes": null
+  },
+  {
+    "id": "75",
+    "category": "word",
+    "uk": "biscuit",
+    "us": "cookie",
+    "source": "http://www.teacherdiane.com/blog/american-vs-british-english",
+    "notes": null
+  },
+  {
+    "id": "76",
+    "category": "word",
+    "uk": "nappy",
+    "us": "diaper",
+    "source": "Merriam-Webster's Collegiate Dictionary Eleventh Edition",
+    "notes": null
+  },
+  {
+    "id": "77",
+    "category": "word",
+    "uk": "lift",
+    "us": "elevator",
+    "source": "http://www.teacherdiane.com/blog/american-vs-british-english",
+    "notes": null
+  },
+  {
+    "id": "78",
+    "category": "word",
+    "uk": "rubber",
+    "us": "eraser",
+    "source": "http://www.teacherdiane.com/blog/american-vs-british-english",
+    "notes": null
+  },
+  {
+    "id": "79",
+    "category": "word",
+    "uk": "autumn",
+    "us": "fall",
+    "source": "http://www.teacherdiane.com/blog/american-vs-british-english",
+    "notes": null
+  },
+  {
+    "id": "80",
+    "category": "word",
+    "uk": "chips",
+    "us": "french fries",
+    "source": "http://www.teacherdiane.com/blog/american-vs-british-english",
+    "notes": null
+  },
+  {
+    "id": "81",
+    "category": "word",
+    "uk": "petrol",
+    "us": "gas",
+    "source": "http://www.teacherdiane.com/blog/american-vs-british-english",
+    "notes": null
+  },
+  {
+    "id": "82",
+    "category": "word",
+    "uk": "maths",
+    "us": "math",
+    "source": "http://www.teacherdiane.com/blog/american-vs-british-english",
+    "notes": null
+  },
+  {
+    "id": "83",
+    "category": "word",
+    "uk": "film",
+    "us": "movie",
+    "source": "http://www.teacherdiane.com/blog/american-vs-british-english",
+    "notes": null
+  },
+  {
+    "id": "84",
+    "category": "word",
+    "uk": "crisps",
+    "us": "potato chips",
+    "source": "http://www.teacherdiane.com/blog/american-vs-british-english",
+    "notes": null
+  },
+  {
+    "id": "85",
+    "category": "word",
+    "uk": "pavement",
+    "us": "sidewalk",
+    "source": "http://www.teacherdiane.com/blog/american-vs-british-english",
+    "notes": null
+  },
+  {
+    "id": "86",
+    "category": "word",
+    "uk": "trainers",
+    "us": "sneakers",
+    "source": "http://www.teacherdiane.com/blog/american-vs-british-english",
+    "notes": null
+  },
+  {
+    "id": "87",
+    "category": "word",
+    "uk": "football",
+    "us": "soccer",
+    "source": "http://www.teacherdiane.com/blog/american-vs-british-english",
+    "notes": null
+  },
+  {
+    "id": "88",
+    "category": "word",
+    "uk": "",
+    "us": "subway",
+    "source": "Merriam-Webster's Collegiate Dictionary Eleventh Edition",
+    "notes": "The equivalent in British English, \"underground\", can be used in both British and American English in other contexts."
+  },
+  {
+    "id": "89",
+    "category": "word",
+    "uk": "lorry",
+    "us": "truck",
+    "source": "http://www.teacherdiane.com/blog/american-vs-british-english",
+    "notes": null
+  },
+  {
+    "id": "90",
+    "category": "word",
+    "uk": "vest",
+    "us": "undershirt",
+    "source": "Merriam-Webster's Collegiate Dictionary Eleventh Edition",
+    "notes": null
+  },
+  {
+    "id": "91",
+    "category": "word",
+    "uk": "holiday",
+    "us": "vacation",
+    "source": "Merriam-Webster's Collegiate Dictionary Eleventh Edition",
+    "notes": null
+  },
+  {
+    "id": "92",
+    "category": "word",
+    "uk": "windscreen",
+    "us": "windshield",
+    "source": "Merriam-Webster's Collegiate Dictionary Eleventh Edition",
+    "notes": null
+  },
+  {
+    "id": "93",
+    "category": "word",
+    "uk": "loo",
+    "us": "",
+    "source": "Merriam-Webster's Collegiate Dictionary Eleventh Edition",
+    "notes": "Not sure if the equivalents in American English such as \"toilet\" and \"restroom\" are not commonly used in British English"
+  },
+  {
+    "id": "94",
+    "category": "word",
+    "uk": "note",
+    "us": "bill",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": "95",
+    "category": "word",
+    "uk": "engaged",
+    "us": "busy",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": "of a telephone line"
+  },
+  {
+    "id": "96",
+    "category": "word",
+    "uk": "anticlockwise",
+    "us": "counterclockwise",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": "97",
+    "category": "word",
+    "uk": "cot",
+    "us": "crib",
+    "source": "Merriam-Webster's Collegiate Dictionary Eleventh Edition",
+    "notes": null
+  },
+  {
+    "id": "98",
+    "category": "word",
+    "uk": "diversion",
+    "us": "detour",
+    "source": "Merriam-Webster's Collegiate Dictionary Eleventh Edition",
+    "notes": null
+  },
+  {
+    "id": "99",
+    "category": "word",
+    "uk": "chemist",
+    "us": "pharmacist",
+    "source": "Merriam-Webster's Collegiate Dictionary Eleventh Edition",
+    "notes": null
+  },
+  {
+    "id": "100",
+    "category": "word",
+    "uk": "torch",
+    "us": "flashlight",
+    "source": "Merriam-Webster's Collegiate Dictionary Eleventh Edition",
+    "notes": null
+  },
+  {
+    "id": "101",
+    "category": "word",
+    "uk": "thongs",
+    "us": "flip-flops",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": "102",
+    "category": "word",
+    "uk": "rubbish",
+    "us": "",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": "103",
+    "category": "word",
+    "uk": "bloke",
+    "us": "dude",
+    "source": "https://preply.com/en/blog/british-english-vs-american-english-slang-compared/",
+    "notes": null
+  },
+  {
+    "id": "104",
+    "category": "word",
+    "uk": "mortorway",
+    "us": "highway",
+    "source": "http://www.teacherdiane.com/blog/american-vs-british-english",
+    "notes": null
+  },
+  {
+    "id": "105",
+    "category": "word",
+    "uk": "queue",
+    "us": "line",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": "106",
+    "category": "word",
+    "uk": "post",
+    "us": "mail",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": "107",
+    "category": "word",
+    "uk": "cinema",
+    "us": "movie theater",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": "108",
+    "category": "word",
+    "uk": "",
+    "us": "pacifer",
+    "source": "Merriam-Webster's Collegiate Dictionary Eleventh Edition",
+    "notes": "The British equivalent is \"dummy\", but it has many other meanings which can be used in American English"
+  },
+  {
+    "id": "109",
+    "category": "phrase",
+    "uk": "car park",
+    "us": "parking lot",
+    "source": "Merriam-Webster's Collegiate Dictionary Eleventh Edition",
+    "notes": null
+  },
+  {
+    "id": "110",
+    "category": "phrase",
+    "uk": "car park",
+    "us": "garage",
+    "source": "Merriam-Webster's Collegiate Dictionary Eleventh Edition",
+    "notes": null
+  },
+  {
+    "id": "111",
+    "category": "word",
+    "uk": "bathrobe",
+    "us": "dressing gown",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": "112",
+    "category": "word",
+    "uk": "pyjamas",
+    "us": "pajamas",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": "113",
+    "category": "phrase",
+    "uk": "",
+    "us": "round trip",
+    "source": "Merriam-Webster's Collegiate Dictionary Eleventh Edition",
+    "notes": "The British equivalent is \"return\", but it has many other meanings which I'm not sure are rarely used in American English"
+  },
+  {
+    "id": "114",
+    "category": "word",
+    "uk": "cooker",
+    "us": "stove",
+    "source": "Merriam-Webster's Collegiate Dictionary Eleventh Edition",
+    "notes": null
+  },
+  {
+    "id": "115",
+    "category": "word",
+    "uk": "pram",
+    "us": "baby carriage",
+    "source": "Merriam-Webster's Collegiate Dictionary Eleventh Edition",
+    "notes": null
+  },
+  {
+    "id": "116",
+    "category": "word",
+    "uk": "pushchair",
+    "us": "stroller",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": "117",
+    "category": "word",
+    "uk": "waistcoat",
+    "us": "vest",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": "118",
+    "category": "word",
+    "uk": "buttocks",
+    "us": "bum",
+    "source": "Merriam-Webster's Collegiate Dictionary Eleventh Edition\nhttps://preply.com/en/blog/british-english-vs-american-english-slang-compared/",
+    "notes": null
+  },
+  {
+    "id": "119",
+    "category": "word",
+    "uk": "shopping cart",
+    "us": "trolley",
+    "source": "https://preply.com/en/blog/british-english-vs-american-english-slang-compared/",
+    "notes": null
+  },
+  {
+    "id": "120",
+    "category": "word",
+    "uk": "timetable",
+    "us": "schedule",
+    "source": "http://www.teacherdiane.com/blog/american-vs-british-english",
+    "notes": null
+  },
+  {
+    "id": "121",
+    "category": "phrase",
+    "uk": "water butt",
+    "us": "rain barrel",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": "122",
+    "category": "phrase",
+    "uk": "bird table",
+    "us": "bird feeder",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": "123",
+    "category": "word",
+    "uk": "garden",
+    "us": "yard",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": "124",
+    "category": "word",
+    "uk": "sun lounger",
+    "us": "lounger",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": "125",
+    "category": "word",
+    "uk": "pub",
+    "us": "bar",
+    "source": "https://preply.com/en/blog/british-english-vs-american-english-slang-compared/",
+    "notes": null
+  },
+  {
+    "id": "126",
+    "category": "word",
+    "uk": "pudding",
+    "us": "dessert",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": "127",
+    "category": "word",
+    "uk": "sweet",
+    "us": "candy",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": "128",
+    "category": "word",
+    "uk": "aubergine",
+    "us": "eggplant",
+    "source": "https://preply.com/en/blog/british-english-vs-american-english-slang-compared/",
+    "notes": null
+  },
+  {
+    "id": "129",
+    "category": "word",
+    "uk": "porridge",
+    "us": "oatmeal",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": "130",
+    "category": "word",
+    "uk": "jumper",
+    "us": "sweater",
+    "source": "Merriam-Webster's Collegiate Dictionary Eleventh Edition",
+    "notes": null
+  },
+  {
+    "id": "131",
+    "category": "word",
+    "uk": "knickers",
+    "us": "panties",
+    "source": "https://preply.com/en/blog/british-english-vs-american-english-slang-compared/",
+    "notes": null
+  },
+  {
+    "id": "132",
+    "category": "spelling",
+    "uk": "organise",
+    "us": "organize",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": null
+  },
+  {
+    "id": "133",
+    "category": "spelling",
+    "uk": "recognise",
+    "us": "recognize",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": null
+  },
+  {
+    "id": "134",
+    "category": "spelling",
+    "uk": "realise",
+    "us": "realize",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": null
+  },
+  {
+    "id": "135",
+    "category": "spelling",
+    "uk": "analyse",
+    "us": "analyze",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": null
+  },
+  {
+    "id": "136",
+    "category": "spelling",
+    "uk": "catalyse",
+    "us": "catalyze",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": null
+  },
+  {
+    "id": "137",
+    "category": "spelling",
+    "uk": "hydrolyse",
+    "us": "hydrolyze",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": null
+  },
+  {
+    "id": "138",
+    "category": "spelling",
+    "uk": "paralyse",
+    "us": "paralyze",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": null
+  },
+  {
+    "id": "139",
+    "category": "spelling",
+    "uk": "analogue",
+    "us": "analog",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": "In American English, analog is the standard spelling for the adjective (e.g., analog signal), while analogue is often preferred for the noun (e.g., meat analogue). According to Merriam-Webster's Collegiate Dictionary, analog is listed as the primary adjective form, while analogue is the principal noun form."
+  },
+  {
+    "id": "140",
+    "category": "spelling",
+    "uk": "catalogue",
+    "us": "catalog",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": null
+  },
+  {
+    "id": "141",
+    "category": "spelling",
+    "uk": "homologue",
+    "us": "homolog",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": null
+  },
+  {
+    "id": "142",
+    "category": "spelling",
+    "uk": "pretence",
+    "us": "pretense",
+    "source": "https://www.oxfordinternationalenglish.com/differences-in-british-and-american-spelling/",
+    "notes": null
+  },
+  {
+    "id": "143",
+    "category": "spelling",
+    "uk": "apologise",
+    "us": "apologize",
+    "source": "https://bau.edu/blog/british-english-vs-american-english/",
+    "notes": null
+  },
+  {
+    "id": "144",
+    "category": "word",
+    "uk": "postbox",
+    "us": "mailbox",
+    "source": "https://www.britishcouncilfoundation.id/en/english/articles/british-and-american-english",
+    "notes": null
+  },
+  {
+    "id": "145",
+    "category": "spelling",
+    "uk": "jeweller",
+    "us": "jeweler",
+    "source": "https://www.britishcouncilfoundation.id/en/english/articles/british-and-american-english",
+    "notes": null
+  },
+  {
+    "id": "146",
+    "category": "spelling",
+    "uk": "marvellous",
+    "us": "marvelous",
+    "source": "https://www.britishcouncilfoundation.id/en/english/articles/british-and-american-english",
+    "notes": null
+  },
+  {
+    "id": "147",
+    "category": "spelling",
+    "uk": "appitiser",
+    "us": "appitizer",
+    "source": "https://www.britishcouncilfoundation.id/en/english/articles/british-and-american-english",
+    "notes": null
+  },
+  {
+    "id": "148",
+    "category": "spelling",
+    "uk": "familiarise",
+    "us": "familiarize",
+    "source": "https://www.britishcouncilfoundation.id/en/english/articles/british-and-american-english",
+    "notes": null
+  },
+  {
+    "id": "149",
+    "category": "spelling",
+    "uk": "enrol",
+    "us": "enroll",
+    "source": "https://www.britishcouncilfoundation.id/en/english/articles/british-and-american-english",
+    "notes": null
+  },
+  {
+    "id": "150",
+    "category": "spelling",
+    "uk": "fulfil",
+    "us": "fulfill",
+    "source": "https://www.britishcouncilfoundation.id/en/english/articles/british-and-american-english",
+    "notes": null
+  },
+  {
+    "id": "151",
+    "category": "spelling",
+    "uk": "skilful",
+    "us": "skillfull",
+    "source": "https://www.britishcouncilfoundation.id/en/english/articles/british-and-american-english",
+    "notes": null
+  },
+  {
+    "id": "152",
+    "category": "spelling",
+    "uk": "monologue",
+    "us": "monolog",
+    "source": "https://www.britishcouncilfoundation.id/en/english/articles/british-and-american-english",
+    "notes": "American English also recognizes words spelled with –ogue"
+  },
+  {
+    "id": "153",
+    "category": "spelling",
+    "uk": "mould",
+    "us": "mold",
+    "source": "https://www.britishcouncilfoundation.id/en/english/articles/british-and-american-english",
+    "notes": null
+  },
+  {
+    "id": "154",
+    "category": "spelling",
+    "uk": "tyre",
+    "us": "tire",
+    "source": "https://www.britishcouncilfoundation.id/en/english/articles/british-and-american-english",
+    "notes": null
+  },
+  {
+    "id": "155",
+    "category": "spelling",
+    "uk": "woollen",
+    "us": "woolen",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": "156",
+    "category": "spelling",
+    "uk": "medallist",
+    "us": "medalist",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": "157",
+    "category": "spelling",
+    "uk": "panellist",
+    "us": "panelist",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": "158",
+    "category": "spelling",
+    "uk": "tranquillise",
+    "us": "tranquilize",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": "159",
+    "category": "spelling",
+    "uk": "tranquillize",
+    "us": "tranquilize",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": "160",
+    "category": "spelling",
+    "uk": "tranquilliser",
+    "us": "tranquilizer",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": "161",
+    "category": "spelling",
+    "uk": "tranquillizer",
+    "us": "tranquilizer",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": "162",
+    "category": "spelling",
+    "uk": "tranquillity",
+    "us": "tranquility",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": "163",
+    "category": "spelling",
+    "uk": "pupillage",
+    "us": "pupilage",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": "164",
+    "category": "spelling",
+    "uk": "cancellation",
+    "us": "cancelation",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": "165",
+    "category": "spelling",
+    "uk": "crystallise",
+    "us": "",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": "The common spelling in American English, \"crystallize\" is also acceptable in British English"
+  },
+  {
+    "id": "166",
+    "category": "spelling",
+    "uk": "calliper",
+    "us": "",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": "The common spelling in American English, \"caliper\" is also acceptable in British English"
+  },
+  {
+    "id": "167",
+    "category": "spelling",
+    "uk": "jewelled",
+    "us": "jeweled",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": "168",
+    "category": "spelling",
+    "uk": "jewellery",
+    "us": "jewelery",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": "169",
+    "category": "spelling",
+    "uk": "appal",
+    "us": "appall",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": "170",
+    "category": "spelling",
+    "uk": "enrolment",
+    "us": "enrollment",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": "171",
+    "category": "spelling",
+    "uk": "fulfilment",
+    "us": "fullfillment",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": "172",
+    "category": "spelling",
+    "uk": "instalment",
+    "us": "installment",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": "173",
+    "category": "spelling",
+    "uk": "thraldom",
+    "us": "thralldom",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": null
+  },
+  {
+    "id": "174",
+    "category": "spelling",
+    "uk": "wilful",
+    "us": "willfull",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": "175",
+    "category": "spelling",
+    "uk": "distil",
+    "us": "distill",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": "176",
+    "category": "spelling",
+    "uk": "enthral",
+    "us": "enthrall",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": "177",
+    "category": "spelling",
+    "uk": "instil",
+    "us": "instill",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": "178",
+    "category": "spelling",
+    "uk": "ageing",
+    "us": "aging",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": "179",
+    "category": "spelling",
+    "uk": "ageism",
+    "us": "agism",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": "180",
+    "category": "spelling",
+    "uk": "duelling",
+    "us": "dueling",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": "181",
+    "category": "spelling",
+    "uk": "bathe",
+    "us": "bath",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": "verb"
+  },
+  {
+    "id": "182",
+    "category": "phrase",
+    "uk": "ground floor",
+    "us": "first floor",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": "183",
+    "category": "spelling",
+    "uk": "enquire",
+    "us": "",
+    "source": "Merriam-Webster's Collegiate Dictionary Eleventh Edition",
+    "notes": "The equivalent in American English, \"inquire\", is also acceptable in British English"
+  },
+  {
+    "id": "184",
+    "category": "spelling",
+    "uk": "enquiry",
+    "us": "",
+    "source": "Merriam-Webster's Collegiate Dictionary Eleventh Edition",
+    "notes": "The equivalent in American English, \"enquire\", is also acceptable in British English"
+  },
+  {
+    "id": "185",
+    "category": "spelling",
+    "uk": "aeroplane",
+    "us": "airplane",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": "186",
+    "category": "spelling",
+    "uk": "aluminium",
+    "us": "aluminum",
+    "source": "Merriam-Webster's Collegiate Dictionary Eleventh Edition",
+    "notes": null
+  },
+  {
+    "id": "187",
+    "category": "spelling",
+    "uk": "arse",
+    "us": "ass",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": "188",
+    "category": "spelling",
+    "uk": "behove",
+    "us": "behoove",
+    "source": "Merriam-Webster's Collegiate Dictionary Eleventh Edition",
+    "notes": null
+  },
+  {
+    "id": "189",
+    "category": "spelling",
+    "uk": "brent",
+    "us": "brant",
+    "source": "Merriam-Webster's Collegiate Dictionary Eleventh Edition",
+    "notes": null
+  },
+  {
+    "id": "190",
+    "category": "spelling",
+    "uk": "carburettor",
+    "us": "carburetor",
+    "source": "Merriam-Webster's Collegiate Dictionary Eleventh Edition",
+    "notes": null
+  },
+  {
+    "id": "191",
+    "category": "spelling",
+    "uk": "carburetter",
+    "us": "carburetor",
+    "source": "Merriam-Webster's Collegiate Dictionary Eleventh Edition",
+    "notes": null
+  },
+  {
+    "id": "192",
+    "category": "spelling",
+    "uk": "carburise",
+    "us": "carburize",
+    "source": "Merriam-Webster's Collegiate Dictionary Eleventh Edition",
+    "notes": null
+  },
+  {
+    "id": "193",
+    "category": "spelling",
+    "uk": "eyrie",
+    "us": "aerie",
+    "source": "Merriam-Webster's Collegiate Dictionary Eleventh Edition",
+    "notes": null
+  },
+  {
+    "id": "194",
+    "category": "spelling",
+    "uk": "fount",
+    "us": "font",
+    "source": "Merriam-Webster's Collegiate Dictionary Eleventh Edition",
+    "notes": null
+  },
+  {
+    "id": "195",
+    "category": "spelling",
+    "uk": "furore",
+    "us": "furor",
+    "source": "Merriam-Webster's Collegiate Dictionary Eleventh Edition",
+    "notes": null
+  },
+  {
+    "id": "196",
+    "category": "spelling",
+    "uk": "haulier",
+    "us": "hauler",
+    "source": "Merriam-Webster's Collegiate Dictionary Eleventh Edition",
+    "notes": null
+  },
+  {
+    "id": "197",
+    "category": "spelling",
+    "uk": "jemmy",
+    "us": "jimmy",
+    "source": "Merriam-Webster's Collegiate Dictionary Eleventh Edition",
+    "notes": null
+  },
+  {
+    "id": "198",
+    "category": "spelling",
+    "uk": "mum",
+    "us": "mom",
+    "source": "Merriam-Webster's Collegiate Dictionary Eleventh Edition",
+    "notes": null
+  },
+  {
+    "id": "199",
+    "category": "spelling",
+    "uk": "naivety",
+    "us": "naïveté",
+    "source": "Merriam-Webster's Collegiate Dictionary Eleventh Edition",
+    "notes": null
+  },
+  {
+    "id": "200",
+    "category": "spelling",
+    "uk": "neurone",
+    "us": "neuron",
+    "source": "Merriam-Webster's Collegiate Dictionary Eleventh Edition",
+    "notes": null
+  },
+  {
+    "id": "201",
+    "category": "spelling",
+    "uk": "orientated",
+    "us": "oriented",
+    "source": "Merriam-Webster's Collegiate Dictionary Eleventh Edition",
+    "notes": null
+  },
+  {
+    "id": "202",
+    "category": "spelling",
+    "uk": "pernickety",
+    "us": "persnickety",
+    "source": "Merriam-Webster's Collegiate Dictionary Eleventh Edition",
+    "notes": null
+  },
+  {
+    "id": "203",
+    "category": "spelling",
+    "uk": "quin",
+    "us": "quint",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": "204",
+    "category": "spelling",
+    "uk": "plonk",
+    "us": "plunk",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": "205",
+    "category": "spelling",
+    "uk": "scallywag",
+    "us": "scalawag",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": "206",
+    "category": "spelling",
+    "uk": "sledge",
+    "us": "sled",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": "207",
+    "category": "spelling",
+    "uk": "titbit",
+    "us": "tidbit",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": "208",
+    "category": "spelling",
+    "uk": "annexe",
+    "us": "annex",
+    "source": "Merriam-Webster's Collegiate Dictionary Eleventh Edition",
+    "notes": null
+  },
+  {
+    "id": "209",
+    "category": "spelling",
+    "uk": "artefact",
+    "us": "artifact",
+    "source": "Merriam-Webster's Collegiate Dictionary Eleventh Edition",
+    "notes": null
+  },
+  {
+    "id": "210",
+    "category": "spelling",
+    "uk": "axe",
+    "us": "axe",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": "211",
+    "category": "spelling",
+    "uk": "",
+    "us": "karat",
+    "source": "Merriam-Webster's Collegiate Dictionary Eleventh Edition",
+    "notes": "The equivalent in British English, \"carat\", is also used in American English"
+  },
+  {
+    "id": "212",
+    "category": "spelling",
+    "uk": "cheque",
+    "us": "",
+    "source": "Merriam-Webster's Collegiate Dictionary Eleventh Edition",
+    "notes": "The equivalent in American English, \"check\", is also used in British English"
+  },
+  {
+    "id": "213",
+    "category": "spelling",
+    "uk": "chequer",
+    "us": "",
+    "source": "Merriam-Webster's Collegiate Dictionary Eleventh Edition",
+    "notes": "The equivalent in American English, \"checker\", is also used in British English"
+  },
+  {
+    "id": "214",
+    "category": "spelling",
+    "uk": "chequered",
+    "us": "checkered",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": "215",
+    "category": "spelling",
+    "uk": "chilli",
+    "us": "chili",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": "216",
+    "category": "spelling",
+    "uk": "cypher",
+    "us": "cipher",
+    "source": "Merriam-Webster's Collegiate Dictionary Eleventh Edition",
+    "notes": null
+  },
+  {
+    "id": "217",
+    "category": "spelling",
+    "uk": "cosy",
+    "us": "cozy",
+    "source": "Merriam-Webster's Collegiate Dictionary Eleventh Edition",
+    "notes": null
+  },
+  {
+    "id": "218",
+    "category": "spelling",
+    "uk": "coulter",
+    "us": "colter",
+    "source": "Oxford Dictionary of English Second Edition Revised",
+    "notes": null
+  },
+  {
+    "id": "219",
+    "category": "spelling",
+    "uk": "",
+    "us": "donut",
+    "source": "Oxford Dictionary of English Second Edition Revised",
+    "notes": "The equivalent in British English, \"doughnut\", is also used in American English"
+  },
+  {
+    "id": "220",
+    "category": "spelling",
+    "uk": "draught",
+    "us": "draft",
+    "source": "Merriam-Webster's Collegiate Dictionary Eleventh Edition",
+    "notes": null
+  },
+  {
+    "id": "221",
+    "category": "spelling",
+    "uk": "draughty",
+    "us": "drafty",
+    "source": "Merriam-Webster's Collegiate Dictionary Eleventh Edition",
+    "notes": null
+  },
+  {
+    "id": "222",
+    "category": "spelling",
+    "uk": "dyke",
+    "us": "dike",
+    "source": "Merriam-Webster's Collegiate Dictionary Eleventh Edition",
+    "notes": null
+  },
+  {
+    "id": "223",
+    "category": "spelling",
+    "uk": "",
+    "us": "gantlet",
+    "source": "Oxford Dictionary of English Second Edition Revised",
+    "notes": "The equivalent in British English, \"gauntlet\", is also used in American English"
+  },
+  {
+    "id": "224",
+    "category": "spelling",
+    "uk": "glycerine",
+    "us": "glycerin",
+    "source": "Oxford Dictionary of English Second Edition Revised",
+    "notes": null
+  },
+  {
+    "id": "225",
+    "category": "spelling",
+    "uk": "grey",
+    "us": "gray",
+    "source": "Oxford Dictionary of English Second Edition Revised",
+    "notes": null
+  },
+  {
+    "id": "226",
+    "category": "spelling",
+    "uk": "gaol",
+    "us": "jail",
+    "source": "Merriam-Webster's Collegiate Dictionary Eleventh Edition",
+    "notes": null
+  },
+  {
+    "id": "227",
+    "category": "spelling",
+    "uk": "gaoler",
+    "us": "jailer",
+    "source": "Merriam-Webster's Collegiate Dictionary Eleventh Edition",
+    "notes": null
+  },
+  {
+    "id": "228",
+    "category": "spelling",
+    "uk": "kerb",
+    "us": "curb",
+    "source": "Merriam-Webster's Collegiate Dictionary Eleventh Edition",
+    "notes": null
+  },
+  {
+    "id": "229",
+    "category": "spelling",
+    "uk": "gramme",
+    "us": "",
+    "source": "Merriam-Webster's Collegiate Dictionary Eleventh Edition",
+    "notes": "The equivalent in American English, \"gram\", is also used in British English"
+  },
+  {
+    "id": "230",
+    "category": "spelling",
+    "uk": "liquorice",
+    "us": "licorice",
+    "source": "Merriam-Webster's Collegiate Dictionary Eleventh Edition",
+    "notes": null
+  },
+  {
+    "id": "231",
+    "category": "spelling",
+    "uk": "mollusc",
+    "us": "mollusk",
+    "source": "Oxford Dictionary of English Second Edition Revised",
+    "notes": null
+  },
+  {
+    "id": "232",
+    "category": "spelling",
+    "uk": "moulding",
+    "us": "molding",
+    "source": "Merriam-Webster's Collegiate Dictionary Eleventh Edition",
+    "notes": null
+  },
+  {
+    "id": "233",
+    "category": "spelling",
+    "uk": "moult",
+    "us": "molt",
+    "source": "Merriam-Webster's Collegiate Dictionary Eleventh Edition",
+    "notes": null
+  },
+  {
+    "id": "234",
+    "category": "spelling",
+    "uk": "",
+    "us": "omelet",
+    "source": "Oxford Dictionary of English Second Edition Revised",
+    "notes": "The equivalent in British English, \"omelette\", is also used in American English"
+  },
+  {
+    "id": "235",
+    "category": "spelling",
+    "uk": "plough",
+    "us": "plow",
+    "source": "Merriam-Webster's Collegiate Dictionary Eleventh Edition",
+    "notes": null
+  },
+  {
+    "id": "236",
+    "category": "spelling",
+    "uk": "programme",
+    "us": "program",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": "237",
+    "category": "spelling",
+    "uk": "sceptic",
+    "us": "skeptic",
+    "source": "Merriam-Webster's Collegiate Dictionary Eleventh Edition",
+    "notes": null
+  },
+  {
+    "id": "238",
+    "category": "spelling",
+    "uk": "sceptical",
+    "us": "skeptical",
+    "source": "Merriam-Webster's Collegiate Dictionary Eleventh Edition",
+    "notes": null
+  },
+  {
+    "id": "239",
+    "category": "spelling",
+    "uk": "scepticism",
+    "us": "skepticism",
+    "source": "Merriam-Webster's Collegiate Dictionary Eleventh Edition",
+    "notes": null
+  },
+  {
+    "id": "240",
+    "category": "spelling",
+    "uk": "smoulder",
+    "us": "smolder",
+    "source": "Oxford Dictionary of English Second Edition Revised",
+    "notes": null
+  },
+  {
+    "id": "241",
+    "category": "spelling",
+    "uk": "storey",
+    "us": "story",
+    "source": "Oxford Dictionary of English Second Edition Revised",
+    "notes": null
+  },
+  {
+    "id": "242",
+    "category": "spelling",
+    "uk": "sulphide",
+    "us": "sulfide",
+    "source": "Merriam-Webster's Collegiate Dictionary Eleventh Edition",
+    "notes": null
+  },
+  {
+    "id": "243",
+    "category": "spelling",
+    "uk": "sulphate",
+    "us": "sulfate",
+    "source": "Merriam-Webster's Collegiate Dictionary Eleventh Edition",
+    "notes": null
+  },
+  {
+    "id": "244",
+    "category": "spelling",
+    "uk": "slphurise",
+    "us": "sulfurize",
+    "source": "Merriam-Webster's Collegiate Dictionary Eleventh Edition",
+    "notes": null
+  },
+  {
+    "id": "245",
+    "category": "spelling",
+    "uk": "",
+    "us": "thru",
+    "source": "Oxford Dictionary of English Second Edition Revised",
+    "notes": "Informal spelling \"through\" used in American English"
+  },
+  {
+    "id": "246",
+    "category": "spelling",
+    "uk": "vice",
+    "us": "vise",
+    "source": "Merriam-Webster's Collegiate Dictionary Eleventh Edition",
+    "notes": null
+  },
+  {
+    "id": "247",
+    "category": "spelling",
+    "uk": "waggon",
+    "us": "wagon",
+    "source": "Merriam-Webster's Collegiate Dictionary Eleventh Edition",
+    "notes": null
+  },
+  {
+    "id": "248",
+    "category": "spelling",
+    "uk": "sceptre",
+    "us": "scepter",
+    "source": "Merriam-Webster's Collegiate Dictionary Eleventh Edition",
+    "notes": null
+  },
+  {
+    "id": "249",
+    "category": "phrase",
+    "uk": "any more",
+    "us": "anymore",
+    "source": "Oxford Dictionary of English Second Edition Revised",
+    "notes": null
+  },
+  {
+    "id": "250",
+    "category": "phrase",
+    "uk": "for ever",
+    "us": "",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": "The equivalent in American English, \"forever\", is also used in British English"
+  },
+  {
+    "id": "251",
+    "category": "phrase",
+    "uk": "for evermore",
+    "us": "forevermore",
+    "source": "Oxford Dictionary of English Second Edition Revised",
+    "notes": null
+  },
+  {
+    "id": "252",
+    "category": "phrase",
+    "uk": "forever more",
+    "us": "forevermore",
+    "source": "Oxford Dictionary of English Second Edition Revised",
+    "notes": null
+  },
+  {
+    "id": "253",
+    "category": "phrase",
+    "uk": "",
+    "us": "light into",
+    "source": "Oxford Dictionary of English Second Edition Revised",
+    "notes": null
+  },
+  {
+    "id": "254",
+    "category": "phrase",
+    "uk": "",
+    "us": "light out",
+    "source": "Oxford Dictionary of English Second Edition Revised",
+    "notes": null
+  },
+  {
+    "id": "255",
+    "category": "spelling",
+    "uk": "",
+    "us": "chanty",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": "The equivalent in British English, \"shanty\", is also used in American English."
+  },
+  {
+    "id": "256",
+    "category": "spelling",
+    "uk": "",
+    "us": "chantey",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": "The equivalent in British English, \"shanty\", is also used in American English."
+  },
+  {
+    "id": "257",
+    "category": "phrase",
+    "uk": "appeal against",
+    "us": "",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_grammatical_differences",
+    "notes": null
+  },
+  {
+    "id": "258",
+    "category": "phrase",
+    "uk": "have got to",
+    "us": "",
+    "source": "https://dictionary.cambridge.org/us/grammar/british-grammar/british-and-american-english#google_vignette",
+    "notes": null
+  },
+  {
+    "id": "259",
+    "category": "phrase",
+    "uk": "I shall",
+    "us": "",
+    "source": "https://dictionary.cambridge.org/us/grammar/british-grammar/british-and-american-english#google_vignette",
+    "notes": null
+  },
+  {
+    "id": "260",
+    "category": "phrase",
+    "uk": "we shall",
+    "us": "",
+    "source": "https://dictionary.cambridge.org/us/grammar/british-grammar/british-and-american-english#google_vignette",
+    "notes": null
+  },
+  {
+    "id": "261",
+    "category": "phrase",
+    "uk": "be well",
+    "us": "",
+    "source": "https://dictionary.cambridge.org/us/grammar/british-grammar/british-and-american-english#google_vignette",
+    "notes": null
+  },
+  {
+    "id": "262",
+    "category": "phrase",
+    "uk": "claim for",
+    "us": "",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_grammatical_differences",
+    "notes": null
+  },
+  {
+    "id": "263",
+    "category": "phrase",
+    "uk": "",
+    "us": "meet with",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_grammatical_differences",
+    "notes": null
+  },
+  {
+    "id": "264",
+    "category": "phrase",
+    "uk": "at rush hour",
+    "us": "in rush-hour traffic",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_grammatical_differences",
+    "notes": null
+  },
+  {
+    "id": "265",
+    "category": "phrase",
+    "uk": "in future",
+    "us": "",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_grammatical_differences",
+    "notes": null
+  },
+  {
+    "id": "266",
+    "category": "phrase",
+    "uk": "",
+    "us": "in back of",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_grammatical_differences",
+    "notes": null
+  },
+  {
+    "id": "267",
+    "category": "phrase",
+    "uk": "take a decision",
+    "us": "",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_grammatical_differences",
+    "notes": null
+  },
+  {
+    "id": "268",
+    "category": "phrase",
+    "uk": "",
+    "us": "an herb",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_grammatical_differences",
+    "notes": null
+  },
+  {
+    "id": "269",
+    "category": "spelling",
+    "uk": "soliloquise",
+    "us": "soliloquize",
+    "source": "Merriam-Webster's Collegiate Dictionary Eleventh Edition",
+    "notes": null
+  },
+  {
+    "id": "270",
+    "category": "spelling",
+    "uk": "marbleise",
+    "us": "marbleize",
+    "source": "Merriam-Webster's Collegiate Dictionary Eleventh Edition",
+    "notes": null
+  }
+]
