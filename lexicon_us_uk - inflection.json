@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "category": "spelling_inflection",
+    "uk": "busses",
+    "us": "buses",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": null
+  },
+  {
+    "id": 2,
+    "category": "spelling_inflection",
+    "uk": "bussed",
+    "us": "bused",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": null
+  },
+  {
+    "id": 3,
+    "category": "spelling_inflection",
+    "uk": "bussing",
+    "us": "busing",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": null
+  },
+  {
+    "id": 4,
+    "category": "spelling_inflection",
+    "uk": "counsellor",
+    "us": "counselor",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": null
+  },
+  {
+    "id": 5,
+    "category": "spelling_inflection",
+    "uk": "cruellest",
+    "us": "cruelest",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": null
+  },
+  {
+    "id": 6,
+    "category": "spelling_inflection",
+    "uk": "labelled",
+    "us": "labeled",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": null
+  },
+  {
+    "id": 7,
+    "category": "spelling_inflection",
+    "uk": "modelling",
+    "us": "modeling",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": null
+  },
+  {
+    "id": 8,
+    "category": "spelling_inflection",
+    "uk": "quarrelled",
+    "us": "quarreled",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": null
+  },
+  {
+    "id": 9,
+    "category": "spelling_inflection",
+    "uk": "signalling",
+    "us": "signaling",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": null
+  },
+  {
+    "id": 10,
+    "category": "spelling_inflection",
+    "uk": "traveller",
+    "us": "traveler",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": null
+  },
+  {
+    "id": 11,
+    "category": "spelling_inflection",
+    "uk": "travelling",
+    "us": "traveling",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": null
+  },
+  {
+    "id": 12,
+    "category": "spelling_inflection",
+    "uk": "labelling",
+    "us": "labeling",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": null
+  },
+  {
+    "id": 13,
+    "category": "spelling_inflection",
+    "uk": "travelled",
+    "us": "traveled",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": null
+  },
+  {
+    "id": 14,
+    "category": "spelling_inflection",
+    "uk": "crueller",
+    "us": "crueler",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": null
+  },
+  {
+    "id": 15,
+    "category": "spelling_inflection",
+    "uk": "modelled",
+    "us": "modelled",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": null
+  },
+  {
+    "id": 16,
+    "category": "spelling_inflection",
+    "uk": "equalling",
+    "us": "equaling",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 17,
+    "category": "spelling_inflection",
+    "uk": "equalled",
+    "us": "equaled",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 18,
+    "category": "spelling_inflection",
+    "uk": "burnt",
+    "us": "burned",
+    "source": "https://www.britishcouncilfoundation.id/en/english/articles/british-and-american-english",
+    "notes": null
+  },
+  {
+    "id": 19,
+    "category": "spelling_inflection",
+    "uk": "dreamt",
+    "us": "dreamed",
+    "source": "https://www.britishcouncilfoundation.id/en/english/articles/british-and-american-english",
+    "notes": null
+  },
+  {
+    "id": 20,
+    "category": "spelling_inflection",
+    "uk": "leapt",
+    "us": "leaped",
+    "source": "https://www.britishcouncilfoundation.id/en/english/articles/british-and-american-english",
+    "notes": null
+  },
+  {
+    "id": 21,
+    "category": "spelling_inflection",
+    "uk": "dialled",
+    "us": "dialed",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 22,
+    "category": "spelling_inflection",
+    "uk": "dialling",
+    "us": "dialing",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 23,
+    "category": "spelling_inflection",
+    "uk": "fuelled",
+    "us": "fueled",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 24,
+    "category": "spelling_inflection",
+    "uk": "fuelling",
+    "us": "fueling",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 25,
+    "category": "spelling_inflection",
+    "uk": "duelled",
+    "us": "dueled",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 26,
+    "category": "spelling_inflection",
+    "uk": "routeing",
+    "us": "routing",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences",
+    "notes": null
+  },
+  {
+    "id": 27,
+    "category": "spelling_inflection",
+    "uk": "",
+    "us": "dove",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": "The equivalent in British English \"dived\" is also acceptable in American English."
+  },
+  {
+    "id": 28,
+    "category": "spelling_inflection",
+    "uk": "learnt",
+    "us": "",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": "The regular past tense is also used in British English"
+  },
+  {
+    "id": 29,
+    "category": "spelling_inflection",
+    "uk": "spoilt",
+    "us": "",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": "The regular past tense is also used in British English"
+  },
+  {
+    "id": 30,
+    "category": "spelling_inflection",
+    "uk": "spelt",
+    "us": "",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": "The regular past tense is also used in British English"
+  },
+  {
+    "id": 31,
+    "category": "spelling_inflection",
+    "uk": "burnt",
+    "us": "",
+    "source": "Oxford Dictionary of English Second Edition Revised",
+    "notes": "The regular past tense is also used in British English"
+  },
+  {
+    "id": 32,
+    "category": "spelling_inflection",
+    "uk": "smelt",
+    "us": "",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": "The regular past tense is also used in British English"
+  },
+  {
+    "id": 33,
+    "category": "spelling_inflection",
+    "uk": "spillt",
+    "us": "",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": "The regular past tense is also used in British English"
+  },
+  {
+    "id": 34,
+    "category": "spelling_inflection",
+    "uk": "",
+    "us": "kneeled",
+    "source": "Oxford Dictionary of English Second Edition Revised",
+    "notes": "The irregular past tense, \"knelt\" is also used in American English"
+  },
+  {
+    "id": 35,
+    "category": "spelling_inflection",
+    "uk": "",
+    "us": "lighted",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_grammatical_differences",
+    "notes": "The irregular past tense, \"lit\" is also used in American English"
+  },
+  {
+    "id": 36,
+    "category": "spelling_inflection",
+    "uk": "fitted",
+    "us": "fit",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 37,
+    "category": "spelling_inflection",
+    "uk": "",
+    "us": "spit",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_grammatical_differences",
+    "notes": "Past and past particle"
+  },
+  {
+    "id": 38,
+    "category": "spelling_inflection",
+    "uk": "sawn",
+    "us": "sawed",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": "Past particle"
+  },
+  {
+    "id": 39,
+    "category": "spelling_inflection",
+    "uk": "",
+    "us": "gotten",
+    "source": "Oxford Dictionary of English Second Edition Revised",
+    "notes": "Past particle"
+  },
+  {
+    "id": 40,
+    "category": "spelling_inflection",
+    "uk": "",
+    "us": "forgot",
+    "source": "Oxford Dictionary of English Second Edition Revised",
+    "notes": "Past particle"
+  },
+  {
+    "id": 41,
+    "category": "spelling_inflection",
+    "uk": "",
+    "us": "sprung",
+    "source": "Oxford Dictionary of English Second Edition Revised",
+    "notes": "Past tense"
+  },
+  {
+    "id": 42,
+    "category": "spelling_inflection",
+    "uk": "",
+    "us": "snuck",
+    "source": "Oxford Dictionary of English Second Edition Revised",
+    "notes": null
+  },
+  {
+    "id": 43,
+    "category": "spelling_inflection",
+    "uk": "",
+    "us": "shrunk",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_grammatical_differences",
+    "notes": "Past tense"
+  },
+  {
+    "id": 44,
+    "category": "spelling_inflection",
+    "uk": "",
+    "us": "shrunken",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_grammatical_differences",
+    "notes": "Past particle"
+  },
+  {
+    "id": 45,
+    "category": "spelling_inflection",
+    "uk": "",
+    "us": "pled",
+    "source": null,
+    "notes": "Past and past particle"
+  }
+]
