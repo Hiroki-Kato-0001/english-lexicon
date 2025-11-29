@@ -1,16 +1,22 @@
+print("DEBUG: script started")
+
 import wikipedia
 import re
 
 wikipedia.set_lang("en")  # Set language to English
 
 def fetch_wikipedia_article():
-    keywod = input("Enter a keyword to search on Wikipedia: ").strip()
-    search_results = wikipedia.search(keywod)
+    print("DEBUG: asking for input now")
+
+    keyword = input("Enter a keyword to search on Wikipedia: ").strip()
+    print("DEBUG: user typed:", keyword)
+
+    search_results = wikipedia.search(keyword)
 
     if not search_results:
         print("No results found for the given keyword.")
     else:
-        print(f"Search results for '{keywod}':")
+        print(f"Search results for '{keyword}':")
         for idx, title in enumerate(search_results, start=1):
             print(f"{idx}. {title}")
 
@@ -25,8 +31,12 @@ def fetch_wikipedia_article():
                 # Clean the text by removing extra whitespace and numbered references
                 text = re.sub(r'\[\d+\]', '', text)  # Remove numbered references
                 text = re.sub(r'\s+', ' ', text).strip()
-
-                return {selected_title, text}
+                text = text.replace('=', '')  # Remove section headings
+                
+                return {
+                    "title": selected_title, 
+                    "content": text
+                    }
                         
             except wikipedia.DisambiguationError as e:
                 print(f"The title '{selected_title}' is ambiguous. Possible options are:\n{e.options}")
@@ -38,3 +48,8 @@ def fetch_wikipedia_article():
         else:
             print("Invalid choice.")
             return None
+        
+if __name__ == "__main__":
+    print("DEBUG: calling fetch_wikipedia_article() now")
+    result = fetch_wikipedia_article()
+    print("DEBUG: returned:", result)
