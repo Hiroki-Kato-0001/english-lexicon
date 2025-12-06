@@ -2,6 +2,7 @@ import get_wikipedia_text
 import json
 import re
 import spacy
+import collections
 
 def detect_region_inflection(text, lexicon):
     uk_count = 0
@@ -27,16 +28,16 @@ def detect_region_with_spacy(text, lexicon_root, uk_count, us_count):
 
     doc = nlp(text)
     lemmas = [token.lemma_ for token in doc]
-    print("Lemmas extracted:", lemmas)
+    dict_counter = collections.Counter(lemmas)
 
     for entry in lexicon_root:
         uk_root = entry['uk'].lower() if entry['uk'] else None
         us_root = entry['us'].lower() if entry['us'] else None
 
-        if uk_root and uk_root in lemmas:
-            uk_count += 1
-        if us_root and us_root in lemmas:
-            us_count += 1
+        if uk_root and uk_root in dict_counter.keys():
+            uk_count += dict_counter[uk_root]
+        if us_root and us_root in dict_counter.keys():
+            us_count += dict_counter[us_root]
     total = uk_count + us_count
 
     return {
