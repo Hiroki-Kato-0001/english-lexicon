@@ -1,0 +1,1562 @@
+[
+  {
+    "id": 1,
+    "category": "phrase",
+    "uk": "fill in",
+    "us": "fill out",
+    "source": "https://intrepidenglish.co.uk/podcasts/handy-phrasal-verbs-in-the-us-or-uk/",
+    "notes": null
+  },
+  {
+    "id": 2,
+    "category": "phrase",
+    "uk": "",
+    "us": "french fries",
+    "source": "http://www.teacherdiane.com/blog/american-vs-british-english",
+    "notes": null
+  },
+  {
+    "id": 3,
+    "category": "phrase",
+    "uk": "",
+    "us": "potato chips",
+    "source": "http://www.teacherdiane.com/blog/american-vs-british-english",
+    "notes": null
+  },
+  {
+    "id": 4,
+    "category": "phrase",
+    "uk": "",
+    "us": "movie theater",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 5,
+    "category": "phrase",
+    "uk": "",
+    "us": "dressing gown",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 6,
+    "category": "phrase",
+    "uk": "",
+    "us": "round trip",
+    "source": "Merriam-Webster's Collegiate Dictionary Eleventh Edition",
+    "notes": null
+  },
+  {
+    "id": 7,
+    "category": "phrase",
+    "uk": "",
+    "us": "baby carriage",
+    "source": "Merriam-Webster's Collegiate Dictionary Eleventh Edition",
+    "notes": null
+  },
+  {
+    "id": 8,
+    "category": "phrase",
+    "uk": "shopping cart",
+    "us": "",
+    "source": "https://preply.com/en/blog/british-english-vs-american-english-slang-compared/",
+    "notes": null
+  },
+  {
+    "id": 9,
+    "category": "phrase",
+    "uk": "sun lounger",
+    "us": "",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 10,
+    "category": "phrase",
+    "uk": "any more",
+    "us": "",
+    "source": "Oxford Dictionary of English Second Edition Revised",
+    "notes": null
+  },
+  {
+    "id": 11,
+    "category": "phrase",
+    "uk": "for ever",
+    "us": "",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 12,
+    "category": "phrase",
+    "uk": "for evermore",
+    "us": "",
+    "source": "Oxford Dictionary of English Second Edition Revised",
+    "notes": null
+  },
+  {
+    "id": 13,
+    "category": "phrase",
+    "uk": "forever more",
+    "us": "",
+    "source": "Oxford Dictionary of English Second Edition Revised",
+    "notes": null
+  },
+  {
+    "id": 14,
+    "category": "phrase",
+    "uk": "at rush hour",
+    "us": "in rush-hour traffic",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_grammatical_differences",
+    "notes": null
+  },
+  {
+    "id": 15,
+    "category": "phrase",
+    "uk": "in future",
+    "us": "",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_grammatical_differences",
+    "notes": null
+  },
+  {
+    "id": 16,
+    "category": "phrase",
+    "uk": "",
+    "us": "in back of",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_grammatical_differences",
+    "notes": null
+  },
+  {
+    "id": 17,
+    "category": "phrase",
+    "uk": "",
+    "us": "an herb",
+    "source": "https://en.wikipedia.org/wiki/American_and_British_English_grammatical_differences",
+    "notes": null
+  },
+  {
+    "id": 18,
+    "category": "phrase",
+    "uk": "",
+    "us": "gas pedal",
+    "source": "https://en.wikipedia.org/wiki/Comparison_of_American_and_British_English",
+    "notes": null
+  },
+  {
+    "id": 19,
+    "category": "phrase",
+    "uk": "",
+    "us": "articulated bus",
+    "source": "https://en.wikipedia.org/wiki/Comparison_of_American_and_British_English",
+    "notes": null
+  },
+  {
+    "id": 20,
+    "category": "phrase",
+    "uk": "breakdown truck",
+    "us": "tow truck",
+    "source": "https://en.wikipedia.org/wiki/Comparison_of_American_and_British_English",
+    "notes": null
+  },
+  {
+    "id": 21,
+    "category": "phrase",
+    "uk": "breakdown lorry",
+    "us": "",
+    "source": "https://en.wikipedia.org/wiki/Comparison_of_American_and_British_English",
+    "notes": null
+  },
+  {
+    "id": 22,
+    "category": "phrase",
+    "uk": "",
+    "us": "horse trail",
+    "source": "https://en.wikipedia.org/wiki/Comparison_of_American_and_British_English",
+    "notes": null
+  },
+  {
+    "id": 23,
+    "category": "phrase",
+    "uk": "",
+    "us": "coach bus",
+    "source": "https://en.wikipedia.org/wiki/Comparison_of_American_and_British_English",
+    "notes": null
+  },
+  {
+    "id": 24,
+    "category": "phrase",
+    "uk": "crash barrier",
+    "us": "",
+    "source": "https://en.wikipedia.org/wiki/Comparison_of_American_and_British_English",
+    "notes": null
+  },
+  {
+    "id": 25,
+    "category": "phrase",
+    "uk": "",
+    "us": "tail pipe",
+    "source": "https://en.wikipedia.org/wiki/Comparison_of_American_and_British_English",
+    "notes": null
+  },
+  {
+    "id": 26,
+    "category": "phrase",
+    "uk": "",
+    "us": "fire truck",
+    "source": "https://en.wikipedia.org/wiki/Comparison_of_American_and_British_English",
+    "notes": null
+  },
+  {
+    "id": 27,
+    "category": "phrase",
+    "uk": "",
+    "us": "gear shift",
+    "source": "https://en.wikipedia.org/wiki/Comparison_of_American_and_British_English",
+    "notes": null
+  },
+  {
+    "id": 28,
+    "category": "phrase",
+    "uk": "",
+    "us": "stick shift",
+    "source": "https://en.wikipedia.org/wiki/Comparison_of_American_and_British_English",
+    "notes": null
+  },
+  {
+    "id": 29,
+    "category": "phrase",
+    "uk": "hard shoulder",
+    "us": "",
+    "source": "https://en.wikipedia.org/wiki/Comparison_of_American_and_British_English",
+    "notes": null
+  },
+  {
+    "id": 30,
+    "category": "phrase",
+    "uk": "hire car",
+    "us": "rental car",
+    "source": "https://en.wikipedia.org/wiki/Comparison_of_American_and_British_English",
+    "notes": null
+  },
+  {
+    "id": 31,
+    "category": "phrase",
+    "uk": "",
+    "us": "convertible top",
+    "source": "https://en.wikipedia.org/wiki/Comparison_of_American_and_British_English",
+    "notes": null
+  },
+  {
+    "id": 32,
+    "category": "phrase",
+    "uk": "",
+    "us": "turn signal",
+    "source": "https://en.wikipedia.org/wiki/Comparison_of_American_and_British_English",
+    "notes": null
+  },
+  {
+    "id": 33,
+    "category": "phrase",
+    "uk": "jump lead",
+    "us": "jumper cable",
+    "source": "https://en.wikipedia.org/wiki/Comparison_of_American_and_British_English",
+    "notes": null
+  },
+  {
+    "id": 34,
+    "category": "phrase",
+    "uk": "",
+    "us": "semi-trailer truck",
+    "source": "https://en.wikipedia.org/wiki/Comparison_of_American_and_British_English",
+    "notes": null
+  },
+  {
+    "id": 35,
+    "category": "phrase",
+    "uk": "articulated lorry",
+    "us": "",
+    "source": "https://en.wikipedia.org/wiki/Comparison_of_American_and_British_English",
+    "notes": null
+  },
+  {
+    "id": 36,
+    "category": "phrase",
+    "uk": "",
+    "us": "big rig",
+    "source": "https://en.wikipedia.org/wiki/Comparison_of_American_and_British_English",
+    "notes": null
+  },
+  {
+    "id": 37,
+    "category": "phrase",
+    "uk": "heavy goods vehicle",
+    "us": "",
+    "source": "https://en.wikipedia.org/wiki/Comparison_of_American_and_British_English",
+    "notes": null
+  },
+  {
+    "id": 38,
+    "category": "phrase",
+    "uk": "marshalling yard",
+    "us": "classification yard",
+    "source": "https://en.wikipedia.org/wiki/Comparison_of_American_and_British_English",
+    "notes": null
+  },
+  {
+    "id": 39,
+    "category": "phrase",
+    "uk": "metalled road",
+    "us": "cobblestone road",
+    "source": "https://en.wikipedia.org/wiki/Comparison_of_American_and_British_English",
+    "notes": null
+  },
+  {
+    "id": 40,
+    "category": "phrase",
+    "uk": "",
+    "us": "paved road",
+    "source": "https://en.wikipedia.org/wiki/Comparison_of_American_and_British_English",
+    "notes": null
+  },
+  {
+    "id": 41,
+    "category": "phrase",
+    "uk": "wheel arch",
+    "us": "",
+    "source": "https://en.wikipedia.org/wiki/Comparison_of_American_and_British_English",
+    "notes": null
+  },
+  {
+    "id": 42,
+    "category": "phrase",
+    "uk": "multi-purpose vehicle",
+    "us": "",
+    "source": "https://en.wikipedia.org/wiki/Comparison_of_American_and_British_English",
+    "notes": null
+  },
+  {
+    "id": 43,
+    "category": "phrase",
+    "uk": "people carrier",
+    "us": "",
+    "source": "https://en.wikipedia.org/wiki/Comparison_of_American_and_British_English",
+    "notes": null
+  },
+  {
+    "id": 44,
+    "category": "phrase",
+    "uk": "number plate",
+    "us": "license plate",
+    "source": "https://en.wikipedia.org/wiki/Comparison_of_American_and_British_English",
+    "notes": null
+  },
+  {
+    "id": 45,
+    "category": "phrase",
+    "uk": "",
+    "us": "overtake and pass",
+    "source": "https://en.wikipedia.org/wiki/Comparison_of_American_and_British_English",
+    "notes": null
+  },
+  {
+    "id": 46,
+    "category": "phrase",
+    "uk": "zebra crossing",
+    "us": "",
+    "source": "https://en.wikipedia.org/wiki/Comparison_of_American_and_British_English",
+    "notes": null
+  },
+  {
+    "id": 47,
+    "category": "phrase",
+    "uk": "pelican crossing",
+    "us": "marked crosswalk",
+    "source": "https://en.wikipedia.org/wiki/Comparison_of_American_and_British_English",
+    "notes": null
+  },
+  {
+    "id": 48,
+    "category": "phrase",
+    "uk": "toucan crossing",
+    "us": "",
+    "source": "https://en.wikipedia.org/wiki/Comparison_of_American_and_British_English",
+    "notes": null
+  },
+  {
+    "id": 49,
+    "category": "phrase",
+    "uk": "panda car",
+    "us": "patrol car",
+    "source": "https://en.wikipedia.org/wiki/Comparison_of_American_and_British_English",
+    "notes": null
+  },
+  {
+    "id": 50,
+    "category": "phrase",
+    "uk": "",
+    "us": "cop car",
+    "source": "https://en.wikipedia.org/wiki/Comparison_of_American_and_British_English",
+    "notes": null
+  },
+  {
+    "id": 51,
+    "category": "phrase",
+    "uk": "public transport",
+    "us": "public transportation",
+    "source": "https://en.wikipedia.org/wiki/Comparison_of_American_and_British_English",
+    "notes": null
+  },
+  {
+    "id": 52,
+    "category": "phrase",
+    "uk": "",
+    "us": "mass transit",
+    "source": "https://en.wikipedia.org/wiki/Comparison_of_American_and_British_English",
+    "notes": null
+  },
+  {
+    "id": 53,
+    "category": "phrase",
+    "uk": "",
+    "us": "public transit",
+    "source": "https://en.wikipedia.org/wiki/Comparison_of_American_and_British_English",
+    "notes": null
+  },
+  {
+    "id": 54,
+    "category": "phrase",
+    "uk": "racing car",
+    "us": "race car",
+    "source": "https://en.wikipedia.org/wiki/Comparison_of_American_and_British_English",
+    "notes": null
+  },
+  {
+    "id": 55,
+    "category": "phrase",
+    "uk": "",
+    "us": "construction zone",
+    "source": "https://en.wikipedia.org/wiki/Comparison_of_American_and_British_English",
+    "notes": null
+  },
+  {
+    "id": 56,
+    "category": "phrase",
+    "uk": "",
+    "us": "traffic circle",
+    "source": "https://en.wikipedia.org/wiki/Comparison_of_American_and_British_English",
+    "notes": null
+  },
+  {
+    "id": 57,
+    "category": "phrase",
+    "uk": "single carriageway",
+    "us": "undivided highway",
+    "source": "https://en.wikipedia.org/wiki/Comparison_of_American_and_British_English",
+    "notes": null
+  },
+  {
+    "id": 58,
+    "category": "phrase",
+    "uk": "ticking over",
+    "us": "",
+    "source": "https://en.wikipedia.org/wiki/Comparison_of_American_and_British_English",
+    "notes": null
+  },
+  {
+    "id": 59,
+    "category": "phrase",
+    "uk": "train carriage",
+    "us": "passenger car",
+    "source": "https://en.wikipedia.org/wiki/Comparison_of_American_and_British_English",
+    "notes": null
+  },
+  {
+    "id": 60,
+    "category": "phrase",
+    "uk": "train coach",
+    "us": "",
+    "source": "https://en.wikipedia.org/wiki/Comparison_of_American_and_British_English",
+    "notes": null
+  },
+  {
+    "id": 61,
+    "category": "phrase",
+    "uk": "transport café",
+    "us": "truck stop",
+    "source": "https://en.wikipedia.org/wiki/Comparison_of_American_and_British_English",
+    "notes": null
+  },
+  {
+    "id": 62,
+    "category": "phrase",
+    "uk": "transport caff",
+    "us": "",
+    "source": "https://en.wikipedia.org/wiki/Comparison_of_American_and_British_English",
+    "notes": null
+  },
+  {
+    "id": 63,
+    "category": "phrase",
+    "uk": "the underground",
+    "us": "",
+    "source": "https://en.wikipedia.org/wiki/Comparison_of_American_and_British_English",
+    "notes": null
+  },
+  {
+    "id": 64,
+    "category": "phrase",
+    "uk": "the tube",
+    "us": "",
+    "source": "https://en.wikipedia.org/wiki/Comparison_of_American_and_British_English",
+    "notes": null
+  },
+  {
+    "id": 65,
+    "category": "phrase",
+    "uk": "",
+    "us": "light truck",
+    "source": "https://en.wikipedia.org/wiki/Comparison_of_American_and_British_English",
+    "notes": null
+  },
+  {
+    "id": 66,
+    "category": "phrase",
+    "uk": "box van",
+    "us": "box truck",
+    "source": "https://en.wikipedia.org/wiki/Comparison_of_American_and_British_English",
+    "notes": null
+  },
+  {
+    "id": 67,
+    "category": "phrase",
+    "uk": "light commercial vehicle",
+    "us": "",
+    "source": "https://en.wikipedia.org/wiki/Comparison_of_American_and_British_English",
+    "notes": null
+  },
+  {
+    "id": 68,
+    "category": "phrase",
+    "uk": "delivery van",
+    "us": "panel truck",
+    "source": "https://en.wikipedia.org/wiki/Comparison_of_American_and_British_English",
+    "notes": null
+  },
+  {
+    "id": 69,
+    "category": "phrase",
+    "uk": "",
+    "us": "sedan delivery",
+    "source": "https://en.wikipedia.org/wiki/Comparison_of_American_and_British_English",
+    "notes": null
+  },
+  {
+    "id": 70,
+    "category": "phrase",
+    "uk": "car valeting",
+    "us": "auto detailing",
+    "source": "https://en.wikipedia.org/wiki/Comparison_of_American_and_British_English",
+    "notes": null
+  },
+  {
+    "id": 71,
+    "category": "phrase",
+    "uk": "at the weekend",
+    "us": "on the weekend",
+    "source": "http://www.teacherdiane.com/blog/american-vs-british-english",
+    "notes": null
+  },
+  {
+    "id": 72,
+    "category": "phrase",
+    "uk": "at Christmas",
+    "us": "on Christmas",
+    "source": "http://www.teacherdiane.com/blog/american-vs-british-english",
+    "notes": null
+  },
+  {
+    "id": 73,
+    "category": "phrase",
+    "uk": "car park",
+    "us": "parking lot",
+    "source": "Merriam-Webster's Collegiate Dictionary Eleventh Edition",
+    "notes": null
+  },
+  {
+    "id": 74,
+    "category": "phrase",
+    "uk": "water butt",
+    "us": "rain barrel",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 75,
+    "category": "phrase",
+    "uk": "bird table",
+    "us": "bird feeder",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 76,
+    "category": "phrase",
+    "uk": "ground floor",
+    "us": "first floor",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 77,
+    "category": "phrase",
+    "uk": "car journey",
+    "us": "road trip",
+    "source": "https://en.wikipedia.org/wiki/Comparison_of_American_and_British_English",
+    "notes": null
+  },
+  {
+    "id": 78,
+    "category": "phrase",
+    "uk": "central reservation",
+    "us": "median strip",
+    "source": "https://en.wikipedia.org/wiki/Comparison_of_American_and_British_English",
+    "notes": null
+  },
+  {
+    "id": 79,
+    "category": "phrase",
+    "uk": "driving licence",
+    "us": "driver's license",
+    "source": "https://en.wikipedia.org/wiki/Comparison_of_American_and_British_English",
+    "notes": null
+  },
+  {
+    "id": 80,
+    "category": "phrase",
+    "uk": "dual carriageway",
+    "us": "divided highway",
+    "source": "https://en.wikipedia.org/wiki/Comparison_of_American_and_British_English",
+    "notes": null
+  },
+  {
+    "id": 81,
+    "category": "phrase",
+    "uk": "estate car",
+    "us": "station wagon",
+    "source": "https://en.wikipedia.org/wiki/Comparison_of_American_and_British_English",
+    "notes": null
+  },
+  {
+    "id": 82,
+    "category": "phrase",
+    "uk": "goods train",
+    "us": "freight train",
+    "source": "https://en.wikipedia.org/wiki/Comparison_of_American_and_British_English",
+    "notes": null
+  },
+  {
+    "id": 83,
+    "category": "phrase",
+    "uk": "goods wagon",
+    "us": "freight car",
+    "source": "https://en.wikipedia.org/wiki/Comparison_of_American_and_British_English",
+    "notes": null
+  },
+  {
+    "id": 84,
+    "category": "phrase",
+    "uk": "accident and emergency",
+    "us": "emergency room",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 85,
+    "category": "phrase",
+    "uk": "",
+    "us": "acquaintance rape",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 86,
+    "category": "phrase",
+    "uk": "action replay",
+    "us": "instant replay",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 87,
+    "category": "phrase",
+    "uk": "actual bodily harm",
+    "us": "",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 88,
+    "category": "phrase",
+    "uk": "adjustable spanner",
+    "us": "monkey wrench",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 89,
+    "category": "phrase",
+    "uk": "agony column",
+    "us": "advice column",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 90,
+    "category": "phrase",
+    "uk": "agony columnist",
+    "us": "advice aunt",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 91,
+    "category": "phrase",
+    "uk": "",
+    "us": "advice uncle",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 92,
+    "category": "phrase",
+    "uk": "positive discrimination",
+    "us": "affirmative action",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 93,
+    "category": "phrase",
+    "uk": "air hostess",
+    "us": "",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 94,
+    "category": "phrase",
+    "uk": "airing cupboard",
+    "us": "",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 95,
+    "category": "phrase",
+    "uk": "Alice band",
+    "us": "",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 96,
+    "category": "phrase",
+    "uk": "Allen key",
+    "us": "Allen wrench",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 97,
+    "category": "phrase",
+    "uk": "",
+    "us": "all-points bulletin",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 98,
+    "category": "phrase",
+    "uk": "plain flour",
+    "us": "all-purpose flour",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 99,
+    "category": "phrase",
+    "uk": "American football",
+    "us": "",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 100,
+    "category": "phrase",
+    "uk": "amusement arcade",
+    "us": "",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 101,
+    "category": "phrase",
+    "uk": "",
+    "us": "animal control officer",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 102,
+    "category": "phrase",
+    "uk": "ankle sock",
+    "us": "",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 103,
+    "category": "phrase",
+    "uk": "the Antipodes",
+    "us": "",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 104,
+    "category": "phrase",
+    "uk": "any time",
+    "us": "",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 105,
+    "category": "phrase",
+    "uk": "",
+    "us": "aside from",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 106,
+    "category": "phrase",
+    "uk": "apartment block",
+    "us": "apartment building",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 107,
+    "category": "phrase",
+    "uk": "",
+    "us": "apartment house",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 108,
+    "category": "phrase",
+    "uk": "approved school",
+    "us": "",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 109,
+    "category": "phrase",
+    "uk": "the armed services",
+    "us": "",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 110,
+    "category": "phrase",
+    "uk": "artificial ventilation",
+    "us": "",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 111,
+    "category": "phrase",
+    "uk": "arum lily",
+    "us": "",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 112,
+    "category": "phrase",
+    "uk": "assault course",
+    "us": "obstacle course",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 113,
+    "category": "phrase",
+    "uk": "assembly room",
+    "us": "",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 114,
+    "category": "phrase",
+    "uk": "asymetric bars",
+    "us": "uneven bars",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 115,
+    "category": "phrase",
+    "uk": "cash card",
+    "us": "ATM card",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 116,
+    "category": "phrase",
+    "uk": "avocado pear",
+    "us": "",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 117,
+    "category": "phrase",
+    "uk": "baby boomer",
+    "us": "",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 118,
+    "category": "phrase",
+    "uk": "puppy fat",
+    "us": "baby fat",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 119,
+    "category": "phrase",
+    "uk": "",
+    "us": "baby shower",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 120,
+    "category": "phrase",
+    "uk": "milk tooth",
+    "us": "",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 121,
+    "category": "phrase",
+    "uk": "baby walker",
+    "us": "",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 122,
+    "category": "phrase",
+    "uk": "stag night",
+    "us": "bachelor party",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 123,
+    "category": "phrase",
+    "uk": "stag party",
+    "us": "",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 124,
+    "category": "phrase",
+    "uk": "",
+    "us": "back talk",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 125,
+    "category": "phrase",
+    "uk": "back copy",
+    "us": "",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 126,
+    "category": "phrase",
+    "uk": "back end",
+    "us": "",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 127,
+    "category": "phrase",
+    "uk": "back number",
+    "us": "",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 128,
+    "category": "phrase",
+    "uk": "back passage",
+    "us": "",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 129,
+    "category": "phrase",
+    "uk": "back-room boy",
+    "us": "",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 130,
+    "category": "phrase",
+    "uk": "reversing light",
+    "us": "backup light",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 131,
+    "category": "phrase",
+    "uk": "luggage van",
+    "us": "baggage car",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 132,
+    "category": "phrase",
+    "uk": "baggage reclaim",
+    "us": "baggage claim",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 133,
+    "category": "phrase",
+    "uk": "",
+    "us": "bag lunch",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 134,
+    "category": "phrase",
+    "uk": "",
+    "us": "bake sale",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 135,
+    "category": "phrase",
+    "uk": "",
+    "us": "baking flour",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 136,
+    "category": "phrase",
+    "uk": "baking sheet",
+    "us": "cookie sheet",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 137,
+    "category": "phrase",
+    "uk": "baking tray",
+    "us": "",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 138,
+    "category": "phrase",
+    "uk": "",
+    "us": "balance beam",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 139,
+    "category": "phrase",
+    "uk": "ballot paper",
+    "us": "",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 140,
+    "category": "phrase",
+    "uk": "",
+    "us": "banana belt",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 141,
+    "category": "phrase",
+    "uk": "banana skin",
+    "us": "",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 142,
+    "category": "phrase",
+    "uk": "stckinig plaster",
+    "us": "",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 143,
+    "category": "phrase",
+    "uk": "b and b",
+    "us": "",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 144,
+    "category": "phrase",
+    "uk": "b & b",
+    "us": "",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 145,
+    "category": "phrase",
+    "uk": "banged up",
+    "us": "",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 146,
+    "category": "phrase",
+    "uk": "banker's card",
+    "us": "",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 147,
+    "category": "phrase",
+    "uk": "banker's order",
+    "us": "",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 148,
+    "category": "phrase",
+    "uk": "bank holiday",
+    "us": "",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 149,
+    "category": "phrase",
+    "uk": "banner year",
+    "us": "",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 150,
+    "category": "phrase",
+    "uk": "bar billiards",
+    "us": "",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 151,
+    "category": "phrase",
+    "uk": "bargaining counter",
+    "us": "",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 152,
+    "category": "phrase",
+    "uk": "barking mad",
+    "us": "",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 153,
+    "category": "phrase",
+    "uk": "barley water",
+    "us": "",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 154,
+    "category": "phrase",
+    "uk": "barrow boy",
+    "us": "",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 155,
+    "category": "phrase",
+    "uk": "Moses basket",
+    "us": "",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 156,
+    "category": "phrase",
+    "uk": "swimming cap",
+    "us": "bathing cap",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 157,
+    "category": "phrase",
+    "uk": "swimming hat",
+    "us": "",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 158,
+    "category": "phrase",
+    "uk": "bathing costume",
+    "us": "",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 159,
+    "category": "phrase",
+    "uk": "",
+    "us": "bathing suit",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 160,
+    "category": "phrase",
+    "uk": "baton round",
+    "us": "",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 161,
+    "category": "phrase",
+    "uk": "battery farm",
+    "us": "",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 162,
+    "category": "phrase",
+    "uk": "beauty contest",
+    "us": "",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 163,
+    "category": "phrase",
+    "uk": "",
+    "us": "beauty mark",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 164,
+    "category": "phrase",
+    "uk": "beauty salon",
+    "us": "",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 165,
+    "category": "phrase",
+    "uk": "beauty parlour",
+    "us": "",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 166,
+    "category": "phrase",
+    "uk": "",
+    "us": "beauty school",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 167,
+    "category": "phrase",
+    "uk": "bed and board",
+    "us": "",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 168,
+    "category": "phrase",
+    "uk": "dormitory town",
+    "us": "bedroom community",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 169,
+    "category": "phrase",
+    "uk": "",
+    "us": "bedroom suburb",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 170,
+    "category": "phrase",
+    "uk": "beside trade",
+    "us": "",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 171,
+    "category": "phrase",
+    "uk": "",
+    "us": "night table",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 172,
+    "category": "phrase",
+    "uk": "bedsitting room",
+    "us": "",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 173,
+    "category": "phrase",
+    "uk": "beef tea",
+    "us": "",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 174,
+    "category": "phrase",
+    "uk": "beef tomato",
+    "us": "beefsteak tomato",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 175,
+    "category": "phrase",
+    "uk": "beer mat",
+    "us": "",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 176,
+    "category": "phrase",
+    "uk": "",
+    "us": "bell pepper",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 177,
+    "category": "phrase",
+    "uk": "bell push",
+    "us": "",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 178,
+    "category": "phrase",
+    "uk": "",
+    "us": "belt way",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 179,
+    "category": "phrase",
+    "uk": "bendy bus",
+    "us": "",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 180,
+    "category": "phrase",
+    "uk": "best-before date",
+    "us": "",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 181,
+    "category": "phrase",
+    "uk": "betting shop",
+    "us": "",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 182,
+    "category": "phrase",
+    "uk": "",
+    "us": "bib overalls",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 183,
+    "category": "phrase",
+    "uk": "cycle lane",
+    "us": "bicycle lane",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 184,
+    "category": "phrase",
+    "uk": "",
+    "us": "bike lane",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 185,
+    "category": "phrase",
+    "uk": "",
+    "us": "big box",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 186,
+    "category": "phrase",
+    "uk": "",
+    "us": "big-box store",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 187,
+    "category": "phrase",
+    "uk": "",
+    "us": "big bucks",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 188,
+    "category": "phrase",
+    "uk": "big dipper",
+    "us": "",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 189,
+    "category": "phrase",
+    "uk": "the Plough",
+    "us": "the Big Dipper",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 190,
+    "category": "phrase",
+    "uk": "",
+    "us": "big league",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 191,
+    "category": "phrase",
+    "uk": "",
+    "us": "Big Man on Campus",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 192,
+    "category": "phrase",
+    "uk": "",
+    "us": "Big Muddy",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 193,
+    "category": "phrase",
+    "uk": "the bog smoke",
+    "us": "",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 194,
+    "category": "phrase",
+    "uk": "the Big Wheel",
+    "us": "",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 195,
+    "category": "phrase",
+    "uk": "",
+    "us": "billy club",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  }
+]
