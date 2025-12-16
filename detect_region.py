@@ -4,22 +4,40 @@ import re
 import spacy
 import collections
 
-def detect_region_inflection(text, lexicon):
-    uk_count = 0
-    us_count = 0
 
-    text = text.lower()
+def detect_region_inflection(text, lexicon_inflection, uk_count, us_count):
 
-    for entry in lexicon:
+    for entry in lexicon_inflection:
         uk = entry['uk'].lower()
         us = entry['us'].lower()
 
-        if re.search(rf"\b{re.escape(uk)}\b", text):
+        if uk and re.search(rf"\b{re.escape(uk)}\b", text):
             uk_count += 1
-        if re.search(rf"\b{re.escape(us)}\b", text):
+            print("DEBUG: matched inflection UK:", uk)
+        if us and re.search(rf"\b{re.escape(us)}\b", text):
             us_count += 1
+            print("DEBUG: matched inflection US:", us)
 
+    print(f"DEBUG: after inflection detection, uk_count={uk_count}, us_count={us_count}")
     return uk_count, us_count
+
+
+def detect_region_phrase(text, lexicon_phrase, uk_count, us_count):
+
+    for entry in lexicon_phrase:
+        uk = entry['uk'].lower()
+        us = entry['us'].lower()
+
+        if uk and re.search(rf"\b{re.escape(uk)}\b", text):
+            uk_count += 1
+            print("DEBUG: matched phrase UK:", uk)
+        if us and re.search(rf"\b{re.escape(us)}\b", text):
+            us_count += 1
+            print("DEBUG: matched phrase US:", us)
+
+    print(f"DEBUG: after phrase detection, uk_count={uk_count}, us_count={us_count}")
+    return uk_count, us_count
+
 
 # Load spaCy English model
 nlp = spacy.load("en_core_web_sm")
@@ -36,8 +54,11 @@ def detect_region_with_spacy(text, lexicon_root, uk_count, us_count):
 
         if uk_root and uk_root in dict_counter.keys():
             uk_count += dict_counter[uk_root]
+            print(f"DEBUG: found UK root: {uk_root}")
         if us_root and us_root in dict_counter.keys():
             us_count += dict_counter[us_root]
+            print(f"DEBUG: found US root: {us_root}")
+    print(f"DEBUG: after root detection, uk_count={uk_count}, us_count={us_count}")
     total = uk_count + us_count
 
     return {
@@ -50,16 +71,29 @@ def detect_region_with_spacy(text, lexicon_root, uk_count, us_count):
 
 
 if __name__ == "__main__":
-    # Load lexicon for inflections from JSON file
-    with open('lexicon_us_uk - inflection.json', 'r', encoding='utf-8') as f:
-        lexicon = json.load(f)
-
+    
     # Fetch a text from Wikipedia
     ariticle = get_wikipedia_text.fetch_wikipedia_article()
     text = ariticle['content']
+    text = text.lower()
+    print(f"DEBUG: fetched content: {text[:100]}...")
+    
+    uk_count = 0
+    us_count = 0
 
-    uk_count, us_count = detect_region_inflection(text, lexicon)
+    # Load lexicon for inflections from JSON file
+    with open('lexicon_us_uk - inflection.json', 'r', encoding='utf-8') as f:
+        lexicon_inflection = json.load(f)
 
+    uk_count, us_count = detect_region_inflection(text, lexicon_inflection, uk_count, us_count)
+
+    # Load lexicon for phrases from JSON file
+    with open('lexicon_us_uk - phrase.json', 'r', encoding='utf-8') as f:
+        lexicon_phrase = json.load(f)
+
+    uk_count, us_count = detect_region_phrase(text, lexicon_phrase, uk_count, us_count)
+
+    # Load lexicon for roots from JSON file
     with open('lexicon_us_uk - root.json', 'r', encoding='utf-8') as f:
         lexicon_root = json.load(f)
 
