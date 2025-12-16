@@ -2,53 +2,48 @@ print("DEBUG: script started")
 
 import wikipedia
 import re
+from urllib.parse import urlparse, unquote
 
-wikipedia.set_lang("en")  # Set language to English
+wikipedia.set_lang("en")
 
 def fetch_wikipedia_article():
     print("DEBUG: asking for input now")
 
-    keyword = input("Enter a keyword to search on Wikipedia: ").strip()
-    print("DEBUG: user typed:", keyword)
+    page_link = input("Enter a URL of an article on Wikipedia: ").strip()
+    print("DEBUG: user gave:", page_link)
 
-    search_results = wikipedia.search(keyword)
+    try:
+        # URLからタイトルを抽出
+        path = urlparse(page_link).path
+        title = unquote(path.split("/wiki/")[-1])
 
-    if not search_results:
-        print("No results found for the given keyword.")
-    else:
-        print(f"Search results for '{keyword}':")
-        for idx, title in enumerate(search_results, start=1):
-            print(f"{idx}. {title}")
+        print("DEBUG: extracted title:", title)
 
-        choice = int(input("Enter the number of the article you want to read more about: "))
-        if 1 <= choice <= len(search_results):
-            selected_title = search_results[choice - 1]
+        page = wikipedia.page(title, auto_suggest=False)
+        print("DEBUG: A page was found via title.")
 
-            try:
-                page = wikipedia.page(selected_title, auto_suggest=False)
-                text = page.content
+        text = page.content
 
-                # Clean the text by removing extra whitespace and numbered references
-                text = re.sub(r'\[\d+\]', '', text)  # Remove numbered references
-                text = re.sub(r'\s+', ' ', text).strip()
-                text = text.replace('=', '')  # Remove section headings
-                
-                return {
-                    "title": selected_title, 
-                    "content": text
-                    }
-                        
-            except wikipedia.DisambiguationError as e:
-                print(f"The title '{selected_title}' is ambiguous. Possible options are:\n{e.options}")
-                return None
-            
-            except wikipedia.PageError:
-                print(f"The page '{selected_title}' does not exist.")
-                return None
-        else:
-            print("Invalid choice.")
-            return None
-        
+        # Clean the text
+        text = re.sub(r'\[\d+\]', '', text)
+        text = re.sub(r'\s+', ' ', text).strip()
+        text = text.replace('=', '')
+
+        return {
+            "title": page.title,
+            "url": page_link,
+            "content": text
+        }
+
+    except wikipedia.PageError:
+        print("DEBUG: No page found for the given URL/title")
+        return None
+
+    except Exception as e:
+        print("Unexpected error:", e)
+        return None
+
+
 if __name__ == "__main__":
     print("DEBUG: calling fetch_wikipedia_article() now")
     result = fetch_wikipedia_article()
