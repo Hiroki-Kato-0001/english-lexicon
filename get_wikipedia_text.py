@@ -13,7 +13,7 @@ def fetch_wikipedia_article():
     print("DEBUG: user gave:", page_link)
 
     try:
-        # URLからタイトルを抽出
+        # Extract the title from the URL
         path = urlparse(page_link).path
         title = unquote(path.split("/wiki/")[-1])
 
