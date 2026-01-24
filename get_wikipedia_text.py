@@ -1,5 +1,3 @@
-print("DEBUG: script started")
-
 import wikipedia
 import re
 from urllib.parse import urlparse, unquote
@@ -42,9 +40,3 @@ def fetch_wikipedia_article():
     except Exception as e:
         print("Unexpected error:", e)
         return None
-
-
-if __name__ == "__main__":
-    print("DEBUG: calling fetch_wikipedia_article() now")
-    result = fetch_wikipedia_article()
-    print("DEBUG: returned:", result)
