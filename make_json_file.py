@@ -45,19 +45,19 @@ def make_json_file(csv_file):
                 data_root.append(entry)
 
 
-    json_file = "lexicon_us_uk - inflection.json"
+    json_file = "lexicon - inflection.json"
     with open(json_file, 'w', encoding='utf-8') as f:
         json.dump(data_inflection, f, ensure_ascii=False, indent=2)
 
     print(f"Converted {len(data_inflection)} entries from {csv_file} to {json_file}.")
 
-    json_file = "lexicon_us_uk - phrase.json"
+    json_file = "lexicon - phrase.json"
     with open(json_file, 'w', encoding='utf-8') as f:
         json.dump(data_phrase, f, ensure_ascii=False, indent=2)
 
     print(f"Converted {len(data_phrase)} entries from {csv_file} to {json_file}.")
 
-    json_file = "lexicon_us_uk - root.json"
+    json_file = "lexicon - root.json"
     with open(json_file, 'w', encoding='utf-8') as f:
         json.dump(data_root, f, ensure_ascii=False, indent=2)
 
