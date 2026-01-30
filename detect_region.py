@@ -171,6 +171,7 @@ def detect_region_phrase(text, lexicon_phrase, brit_count, name_count, us_count,
 
 # Load spaCy English model
 nlp = spacy.load("en_core_web_sm")
+nlp.max_length = 2000000  # Increase max length if needed
 
 def detect_region_with_spacy(text, lexicon_root, brit_count, name_count, us_count, can_count, austral_count,
                              nz_count, scot_count, irish_count, ind_count, eafr_count, wafr_count, safr_count,
