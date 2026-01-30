@@ -1,5 +1,7 @@
 from make_json_file import make_json_file
 from get_wikipedia_text import fetch_wikipedia_article
+from load_text_file import load_text_from_txt
+from load_pdf_file import load_text_from_pdf
 from detect_region import detect_region_inflection, detect_region_phrase, detect_region_with_spacy
 import json
 
@@ -9,9 +11,21 @@ csv_file = "lexicon - raw data.csv"
 result = make_json_file(csv_file)
 print(result)
 
-# Fetch a text from Wikipedia
-article = fetch_wikipedia_article()
-text = article['content']
+# Fetch a text from Wikipedia/txt/pdf
+print("DEBUG: asking for input now")
+
+link_or_file = input("Enter a URL of an article on Wikipedia or a path to a local text or PDF file: ").strip()
+print("DEBUG: user gave:", link_or_file)
+
+if link_or_file.lower().endswith('.txt'):
+    text = load_text_from_txt(link_or_file)
+elif link_or_file.lower().endswith('.pdf'):
+    text = load_text_from_pdf(link_or_file)
+else:
+    page_link = link_or_file
+    article = fetch_wikipedia_article(page_link)
+    text = article['content']
+
 text = text.lower()
 print(f"DEBUG: fetched content: {text[:100]}...")
 
