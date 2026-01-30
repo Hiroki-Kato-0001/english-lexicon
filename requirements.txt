@@ -6,3 +6,4 @@ re
 urlparse
 unquote
 collections
+pypdf
