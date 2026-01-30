@@ -4,11 +4,12 @@ from urllib.parse import urlparse, unquote
 
 wikipedia.set_lang("en")
 
-def fetch_wikipedia_article():
-    print("DEBUG: asking for input now")
+def fetch_wikipedia_article(page_link):
+    #print("DEBUG: asking for input now")
 
-    page_link = input("Enter a URL of an article on Wikipedia: ").strip()
-    print("DEBUG: user gave:", page_link)
+    
+    #page_link = input("Enter a URL of an article on Wikipedia: ").strip()
+    #print("DEBUG: user gave:", page_link)
 
     try:
         # Extract the title from the URL
