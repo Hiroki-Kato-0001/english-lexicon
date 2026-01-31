@@ -23,7 +23,7 @@
     "notes": null
   },
   {
-    "id": 63,
+    "id": 62,
     "Great Britain": "chips",
     "North America": "",
     "United States": "",
@@ -46,7 +46,7 @@
     "notes": null
   },
   {
-    "id": 64,
+    "id": 63,
     "Great Britain": "maths",
     "North America": "",
     "United States": "math",
@@ -69,7 +69,7 @@
     "notes": null
   },
   {
-    "id": 65,
+    "id": 64,
     "Great Britain": "crisps",
     "North America": "",
     "United States": "",
@@ -92,7 +92,7 @@
     "notes": null
   },
   {
-    "id": 66,
+    "id": 65,
     "Great Britain": "trainers",
     "North America": "",
     "United States": "sneakers",
@@ -115,7 +115,7 @@
     "notes": null
   },
   {
-    "id": 68,
+    "id": 66,
     "Great Britain": "thongs",
     "North America": "flip-flops",
     "United States": "",
@@ -138,7 +138,7 @@
     "notes": null
   },
   {
-    "id": 77,
+    "id": 73,
     "Great Britain": "knickers",
     "North America": "",
     "United States": "panties",
@@ -161,7 +161,7 @@
     "notes": null
   },
   {
-    "id": 145,
+    "id": 135,
     "Great Britain": "",
     "North America": "labeling",
     "United States": "",
@@ -184,7 +184,7 @@
     "notes": null
   },
   {
-    "id": 146,
+    "id": 136,
     "Great Britain": "",
     "North America": "traveled",
     "United States": "",
@@ -207,7 +207,7 @@
     "notes": null
   },
   {
-    "id": 147,
+    "id": 137,
     "Great Britain": "",
     "North America": "modeled",
     "United States": "",
@@ -230,7 +230,7 @@
     "notes": null
   },
   {
-    "id": 148,
+    "id": 138,
     "Great Britain": "",
     "North America": "equaling",
     "United States": "",
@@ -253,7 +253,7 @@
     "notes": null
   },
   {
-    "id": 149,
+    "id": 139,
     "Great Britain": "",
     "North America": "equaled",
     "United States": "",
@@ -276,53 +276,7 @@
     "notes": null
   },
   {
-    "id": 150,
-    "Great Britain": "dreamt",
-    "North America": "",
-    "United States": "dreamed",
-    "Canada": "",
-    "Australia": "",
-    "New Zealand": "",
-    "Scotland": "",
-    "Ireland": "",
-    "India": "",
-    "East Africa": "",
-    "West Africa": "",
-    "South Africa": "",
-    "North Africa": "",
-    "New England": "",
-    "East Asia": "",
-    "West Asia": "",
-    "South Asia": "",
-    "North Asia": "",
-    "source": "https://www.britishcouncilfoundation.id/en/english/articles/british-and-american-english",
-    "notes": null
-  },
-  {
-    "id": 151,
-    "Great Britain": "leapt",
-    "North America": "",
-    "United States": "leaped",
-    "Canada": "",
-    "Australia": "",
-    "New Zealand": "",
-    "Scotland": "",
-    "Ireland": "",
-    "India": "",
-    "East Africa": "",
-    "West Africa": "",
-    "South Africa": "",
-    "North Africa": "",
-    "New England": "",
-    "East Asia": "",
-    "West Asia": "",
-    "South Asia": "",
-    "North Asia": "",
-    "source": "https://www.britishcouncilfoundation.id/en/english/articles/british-and-american-english",
-    "notes": null
-  },
-  {
-    "id": 152,
+    "id": 140,
     "Great Britain": "",
     "North America": "dialed",
     "United States": "",
@@ -345,7 +299,7 @@
     "notes": null
   },
   {
-    "id": 153,
+    "id": 141,
     "Great Britain": "",
     "North America": "dialing",
     "United States": "",
@@ -368,7 +322,7 @@
     "notes": null
   },
   {
-    "id": 154,
+    "id": 142,
     "Great Britain": "",
     "North America": "fueled",
     "United States": "",
@@ -391,7 +345,7 @@
     "notes": null
   },
   {
-    "id": 155,
+    "id": 143,
     "Great Britain": "",
     "North America": "fueling",
     "United States": "",
@@ -414,7 +368,7 @@
     "notes": null
   },
   {
-    "id": 156,
+    "id": 144,
     "Great Britain": "",
     "North America": "dueled",
     "United States": "",
@@ -437,7 +391,7 @@
     "notes": null
   },
   {
-    "id": 157,
+    "id": 145,
     "Great Britain": "",
     "North America": "dove",
     "United States": "",
@@ -460,7 +414,7 @@
     "notes": null
   },
   {
-    "id": 158,
+    "id": 146,
     "Great Britain": "",
     "North America": "kneeled",
     "United States": "",
@@ -483,9 +437,9 @@
     "notes": null
   },
   {
-    "id": 159,
+    "id": 147,
     "Great Britain": "fitted",
-    "North America": "fit",
+    "North America": "",
     "United States": "",
     "Canada": "",
     "Australia": "",
@@ -506,7 +460,7 @@
     "notes": null
   },
   {
-    "id": 160,
+    "id": 148,
     "Great Britain": "sawn",
     "North America": "sawed",
     "United States": "",
@@ -529,7 +483,7 @@
     "notes": null
   },
   {
-    "id": 161,
+    "id": 149,
     "Great Britain": "",
     "North America": "gotten",
     "United States": "",
@@ -552,7 +506,7 @@
     "notes": null
   },
   {
-    "id": 162,
+    "id": 150,
     "Great Britain": "",
     "North America": "sprung",
     "United States": "",
@@ -575,7 +529,7 @@
     "notes": null
   },
   {
-    "id": 163,
+    "id": 151,
     "Great Britain": "",
     "North America": "snuck",
     "United States": "",
@@ -598,7 +552,7 @@
     "notes": null
   },
   {
-    "id": 164,
+    "id": 152,
     "Great Britain": "",
     "North America": "pled",
     "United States": "",
@@ -621,7 +575,7 @@
     "notes": null
   },
   {
-    "id": 165,
+    "id": 153,
     "Great Britain": "ABC",
     "North America": "ABCs",
     "United States": "",
@@ -644,7 +598,7 @@
     "notes": null
   },
   {
-    "id": 166,
+    "id": 154,
     "Great Britain": "",
     "North America": "backpedaling",
     "United States": "",
@@ -667,7 +621,7 @@
     "notes": null
   },
   {
-    "id": 167,
+    "id": 155,
     "Great Britain": "",
     "North America": "backpedaled",
     "United States": "",
@@ -690,7 +644,7 @@
     "notes": null
   },
   {
-    "id": 168,
+    "id": 156,
     "Great Britain": "",
     "North America": "bagpipe",
     "United States": "",
@@ -713,7 +667,7 @@
     "notes": null
   },
   {
-    "id": 169,
+    "id": 157,
     "Great Britain": "",
     "North America": "bedeviled",
     "United States": "",
@@ -736,7 +690,7 @@
     "notes": null
   },
   {
-    "id": 170,
+    "id": 158,
     "Great Britain": "",
     "North America": "bedeviling",
     "United States": "",
@@ -759,7 +713,7 @@
     "notes": null
   },
   {
-    "id": 171,
+    "id": 159,
     "Great Britain": "",
     "North America": "bejeweled",
     "United States": "",
@@ -782,7 +736,7 @@
     "notes": null
   },
   {
-    "id": 172,
+    "id": 160,
     "Great Britain": "",
     "North America": "beveled",
     "United States": "",
@@ -805,7 +759,7 @@
     "notes": null
   },
   {
-    "id": 173,
+    "id": 161,
     "Great Britain": "",
     "North America": "jeweled",
     "United States": "",
@@ -828,7 +782,7 @@
     "notes": null
   },
   {
-    "id": 344,
+    "id": 327,
     "Great Britain": "",
     "North America": "candelabrums",
     "United States": "",
@@ -851,7 +805,7 @@
     "notes": null
   },
   {
-    "id": 372,
+    "id": 354,
     "Great Britain": "",
     "North America": "barreled",
     "United States": "",
@@ -874,7 +828,7 @@
     "notes": null
   },
   {
-    "id": 373,
+    "id": 355,
     "Great Britain": "",
     "North America": "barreling",
     "United States": "",
@@ -897,7 +851,7 @@
     "notes": null
   },
   {
-    "id": 458,
+    "id": 442,
     "Great Britain": "learnt",
     "North America": "",
     "United States": "",
@@ -920,7 +874,7 @@
     "notes": null
   },
   {
-    "id": 459,
+    "id": 443,
     "Great Britain": "spoilt",
     "North America": "",
     "United States": "",
@@ -943,7 +897,7 @@
     "notes": null
   },
   {
-    "id": 460,
+    "id": 444,
     "Great Britain": "spelt",
     "North America": "",
     "United States": "",
@@ -966,7 +920,7 @@
     "notes": null
   },
   {
-    "id": 461,
+    "id": 445,
     "Great Britain": "burnt",
     "North America": "",
     "United States": "",
@@ -989,7 +943,7 @@
     "notes": null
   },
   {
-    "id": 462,
+    "id": 446,
     "Great Britain": "smelt",
     "North America": "",
     "United States": "",
@@ -1012,7 +966,7 @@
     "notes": null
   },
   {
-    "id": 463,
+    "id": 447,
     "Great Britain": "spilt",
     "North America": "",
     "United States": "",
@@ -1035,7 +989,7 @@
     "notes": null
   },
   {
-    "id": 464,
+    "id": 448,
     "Great Britain": "banisters",
     "North America": "",
     "United States": "",
@@ -1058,7 +1012,7 @@
     "notes": null
   },
   {
-    "id": 778,
+    "id": 761,
     "Great Britain": "",
     "North America": "",
     "United States": "quarreled",
@@ -1081,7 +1035,7 @@
     "notes": null
   },
   {
-    "id": 779,
+    "id": 762,
     "Great Britain": "",
     "North America": "",
     "United States": "quarreling",
@@ -1104,7 +1058,7 @@
     "notes": null
   },
   {
-    "id": 780,
+    "id": 763,
     "Great Britain": "",
     "North America": "",
     "United States": "canceled",
@@ -1127,7 +1081,7 @@
     "notes": null
   },
   {
-    "id": 781,
+    "id": 764,
     "Great Britain": "",
     "North America": "",
     "United States": "canceling",
@@ -1150,7 +1104,7 @@
     "notes": null
   },
   {
-    "id": 782,
+    "id": 765,
     "Great Britain": "",
     "North America": "",
     "United States": "caroled",
@@ -1173,7 +1127,7 @@
     "notes": null
   },
   {
-    "id": 783,
+    "id": 766,
     "Great Britain": "",
     "North America": "",
     "United States": "caroling",
@@ -1196,7 +1150,7 @@
     "notes": null
   },
   {
-    "id": 784,
+    "id": 767,
     "Great Britain": "",
     "North America": "",
     "United States": "channeled",
@@ -1219,7 +1173,7 @@
     "notes": null
   },
   {
-    "id": 785,
+    "id": 768,
     "Great Britain": "",
     "North America": "",
     "United States": "channeling",
@@ -1242,7 +1196,7 @@
     "notes": null
   },
   {
-    "id": 786,
+    "id": 769,
     "Great Britain": "chiselled",
     "North America": "",
     "United States": "chiseled",
@@ -1265,7 +1219,7 @@
     "notes": null
   },
   {
-    "id": 787,
+    "id": 770,
     "Great Britain": "",
     "North America": "",
     "United States": "chiseling",
@@ -1288,7 +1242,30 @@
     "notes": null
   },
   {
-    "id": 789,
+    "id": 772,
+    "Great Britain": "",
+    "North America": "",
+    "United States": "corrals",
+    "Canada": "",
+    "Australia": "",
+    "New Zealand": "",
+    "Scotland": "",
+    "Ireland": "",
+    "India": "",
+    "East Africa": "",
+    "West Africa": "",
+    "South Africa": "",
+    "North Africa": "",
+    "New England": "",
+    "East Asia": "",
+    "West Asia": "",
+    "South Asia": "",
+    "North Asia": "",
+    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
+    "notes": null
+  },
+  {
+    "id": 773,
     "Great Britain": "",
     "North America": "",
     "United States": "corraled",
@@ -1311,7 +1288,7 @@
     "notes": null
   },
   {
-    "id": 790,
+    "id": 774,
     "Great Britain": "",
     "North America": "",
     "United States": "corraling",
@@ -1334,7 +1311,7 @@
     "notes": null
   },
   {
-    "id": 791,
+    "id": 775,
     "Great Britain": "",
     "North America": "",
     "United States": "counseled",
@@ -1357,7 +1334,7 @@
     "notes": null
   },
   {
-    "id": 792,
+    "id": 776,
     "Great Britain": "",
     "North America": "",
     "United States": "counseling",
@@ -1380,7 +1357,7 @@
     "notes": null
   },
   {
-    "id": 793,
+    "id": 777,
     "Great Britain": "",
     "North America": "credentialed",
     "United States": "",
@@ -1403,7 +1380,7 @@
     "notes": null
   },
   {
-    "id": 794,
+    "id": 778,
     "Great Britain": "",
     "North America": "credentialing",
     "United States": "",
@@ -1426,7 +1403,7 @@
     "notes": null
   },
   {
-    "id": 796,
+    "id": 780,
     "Great Britain": "cudgelled",
     "North America": "cudgeled",
     "United States": "",
@@ -1449,7 +1426,7 @@
     "notes": null
   },
   {
-    "id": 797,
+    "id": 781,
     "Great Britain": "cudgelling",
     "North America": "cudgeling",
     "United States": "",
@@ -1472,7 +1449,7 @@
     "notes": null
   },
   {
-    "id": 798,
+    "id": 782,
     "Great Britain": "",
     "North America": "decontrolled",
     "United States": "",
@@ -1495,7 +1472,7 @@
     "notes": null
   },
   {
-    "id": 799,
+    "id": 783,
     "Great Britain": "",
     "North America": "decontrolling",
     "United States": "",
@@ -1518,7 +1495,7 @@
     "notes": null
   },
   {
-    "id": 800,
+    "id": 784,
     "Great Britain": "",
     "North America": "",
     "United States": "disemboweled",
@@ -1541,7 +1518,7 @@
     "notes": null
   },
   {
-    "id": 801,
+    "id": 785,
     "Great Britain": "",
     "North America": "",
     "United States": "disemboweling",
@@ -1564,7 +1541,7 @@
     "notes": null
   },
   {
-    "id": 806,
+    "id": 790,
     "Great Britain": "",
     "North America": "",
     "United States": "funneled",
@@ -1587,7 +1564,7 @@
     "notes": null
   },
   {
-    "id": 807,
+    "id": 791,
     "Great Britain": "",
     "North America": "",
     "United States": "funneling",
@@ -1610,7 +1587,7 @@
     "notes": null
   },
   {
-    "id": 808,
+    "id": 792,
     "Great Britain": "",
     "North America": "",
     "United States": "gamboled",
@@ -1633,7 +1610,7 @@
     "notes": null
   },
   {
-    "id": 809,
+    "id": 793,
     "Great Britain": "",
     "North America": "",
     "United States": "gamboling",
@@ -1656,7 +1633,7 @@
     "notes": null
   },
   {
-    "id": 810,
+    "id": 794,
     "Great Britain": "",
     "North America": "",
     "United States": "caviled",
@@ -1679,7 +1656,7 @@
     "notes": null
   },
   {
-    "id": 811,
+    "id": 795,
     "Great Britain": "",
     "North America": "",
     "United States": "caviling",
@@ -1702,7 +1679,7 @@
     "notes": null
   },
   {
-    "id": 814,
+    "id": 798,
     "Great Britain": "",
     "North America": "",
     "United States": "groveled",
@@ -1725,7 +1702,7 @@
     "notes": null
   },
   {
-    "id": 815,
+    "id": 799,
     "Great Britain": "",
     "North America": "",
     "United States": "groveling",
@@ -1748,7 +1725,7 @@
     "notes": null
   },
   {
-    "id": 816,
+    "id": 800,
     "Great Britain": "",
     "North America": "",
     "United States": "imperiled",
@@ -1771,7 +1748,7 @@
     "notes": null
   },
   {
-    "id": 817,
+    "id": 801,
     "Great Britain": "",
     "North America": "",
     "United States": "imperiling",
@@ -1794,7 +1771,7 @@
     "notes": null
   },
   {
-    "id": 818,
+    "id": 802,
     "Great Britain": "",
     "North America": "",
     "United States": "initialed",
@@ -1817,7 +1794,7 @@
     "notes": null
   },
   {
-    "id": 819,
+    "id": 803,
     "Great Britain": "",
     "North America": "",
     "United States": "initialing",
@@ -1840,7 +1817,7 @@
     "notes": null
   },
   {
-    "id": 820,
+    "id": 804,
     "Great Britain": "",
     "North America": "",
     "United States": "leveled",
@@ -1863,7 +1840,7 @@
     "notes": null
   },
   {
-    "id": 821,
+    "id": 805,
     "Great Britain": "",
     "North America": "",
     "United States": "leveling",
@@ -1886,7 +1863,7 @@
     "notes": null
   },
   {
-    "id": 822,
+    "id": 806,
     "Great Britain": "",
     "North America": "",
     "United States": "libeled",
@@ -1909,7 +1886,7 @@
     "notes": null
   },
   {
-    "id": 823,
+    "id": 807,
     "Great Britain": "",
     "North America": "",
     "United States": "libeling",
@@ -1932,7 +1909,7 @@
     "notes": null
   },
   {
-    "id": 824,
+    "id": 808,
     "Great Britain": "",
     "North America": "",
     "United States": "marveled",
@@ -1955,7 +1932,7 @@
     "notes": null
   },
   {
-    "id": 825,
+    "id": 809,
     "Great Britain": "",
     "North America": "",
     "United States": "marveling",
@@ -1978,7 +1955,7 @@
     "notes": null
   },
   {
-    "id": 826,
+    "id": 810,
     "Great Britain": "",
     "North America": "",
     "United States": "medaled",
@@ -2001,7 +1978,7 @@
     "notes": null
   },
   {
-    "id": 827,
+    "id": 811,
     "Great Britain": "",
     "North America": "",
     "United States": "medaling",
@@ -2024,7 +2001,7 @@
     "notes": null
   },
   {
-    "id": 828,
+    "id": 812,
     "Great Britain": "",
     "North America": "",
     "United States": "paneled",
@@ -2047,7 +2024,7 @@
     "notes": null
   },
   {
-    "id": 829,
+    "id": 813,
     "Great Britain": "",
     "North America": "",
     "United States": "paneling",
@@ -2070,7 +2047,7 @@
     "notes": null
   },
   {
-    "id": 830,
+    "id": 814,
     "Great Britain": "parcelled",
     "North America": "",
     "United States": "parceled",
@@ -2093,7 +2070,7 @@
     "notes": null
   },
   {
-    "id": 831,
+    "id": 815,
     "Great Britain": "parcelling",
     "North America": "",
     "United States": "parceling",
@@ -2116,7 +2093,7 @@
     "notes": null
   },
   {
-    "id": 832,
+    "id": 816,
     "Great Britain": "",
     "North America": "",
     "United States": "pedaled",
@@ -2139,7 +2116,7 @@
     "notes": null
   },
   {
-    "id": 833,
+    "id": 817,
     "Great Britain": "",
     "North America": "",
     "United States": "pedaling",
@@ -2162,7 +2139,7 @@
     "notes": null
   },
   {
-    "id": 834,
+    "id": 818,
     "Great Britain": "",
     "North America": "",
     "United States": "penciled",
@@ -2185,7 +2162,7 @@
     "notes": null
   },
   {
-    "id": 835,
+    "id": 819,
     "Great Britain": "",
     "North America": "",
     "United States": "penciling",
@@ -2208,7 +2185,7 @@
     "notes": null
   },
   {
-    "id": 837,
+    "id": 821,
     "Great Britain": "",
     "North America": "",
     "United States": "pummeled",
@@ -2231,7 +2208,7 @@
     "notes": null
   },
   {
-    "id": 838,
+    "id": 822,
     "Great Britain": "",
     "North America": "",
     "United States": "pummeling",
@@ -2254,7 +2231,7 @@
     "notes": null
   },
   {
-    "id": 839,
+    "id": 823,
     "Great Britain": "",
     "North America": "",
     "United States": "raveled",
@@ -2277,7 +2254,7 @@
     "notes": null
   },
   {
-    "id": 840,
+    "id": 824,
     "Great Britain": "",
     "North America": "",
     "United States": "raveling",
@@ -2300,7 +2277,7 @@
     "notes": null
   },
   {
-    "id": 841,
+    "id": 825,
     "Great Britain": "",
     "North America": "",
     "United States": "refueled",
@@ -2323,7 +2300,7 @@
     "notes": null
   },
   {
-    "id": 842,
+    "id": 826,
     "Great Britain": "",
     "North America": "",
     "United States": "refueling",
@@ -2346,7 +2323,7 @@
     "notes": null
   },
   {
-    "id": 843,
+    "id": 827,
     "Great Britain": "",
     "North America": "",
     "United States": "remodeled",
@@ -2369,7 +2346,7 @@
     "notes": null
   },
   {
-    "id": 844,
+    "id": 828,
     "Great Britain": "",
     "North America": "",
     "United States": "remodeling",
@@ -2392,7 +2369,7 @@
     "notes": null
   },
   {
-    "id": 846,
+    "id": 830,
     "Great Britain": "",
     "North America": "",
     "United States": "reveled",
@@ -2415,7 +2392,7 @@
     "notes": null
   },
   {
-    "id": 847,
+    "id": 831,
     "Great Britain": "",
     "North America": "",
     "United States": "reveling",
@@ -2438,7 +2415,7 @@
     "notes": null
   },
   {
-    "id": 848,
+    "id": 832,
     "Great Britain": "",
     "North America": "rivaled",
     "United States": "",
@@ -2461,7 +2438,7 @@
     "notes": null
   },
   {
-    "id": 849,
+    "id": 833,
     "Great Britain": "",
     "North America": "rivaling",
     "United States": "",
@@ -2484,7 +2461,7 @@
     "notes": null
   },
   {
-    "id": 850,
+    "id": 834,
     "Great Britain": "",
     "North America": "",
     "United States": "shoveled",
@@ -2507,7 +2484,7 @@
     "notes": null
   },
   {
-    "id": 851,
+    "id": 835,
     "Great Britain": "",
     "North America": "",
     "United States": "shoveling",
@@ -2530,7 +2507,7 @@
     "notes": null
   },
   {
-    "id": 852,
+    "id": 836,
     "Great Britain": "",
     "North America": "",
     "United States": "shriveled",
@@ -2553,7 +2530,7 @@
     "notes": null
   },
   {
-    "id": 853,
+    "id": 837,
     "Great Britain": "",
     "North America": "",
     "United States": "shriveling",
@@ -2576,7 +2553,7 @@
     "notes": null
   },
   {
-    "id": 854,
+    "id": 838,
     "Great Britain": "",
     "North America": "",
     "United States": "signaled",
@@ -2599,7 +2576,7 @@
     "notes": null
   },
   {
-    "id": 855,
+    "id": 839,
     "Great Britain": "",
     "North America": "",
     "United States": "signaling",
@@ -2622,7 +2599,7 @@
     "notes": null
   },
   {
-    "id": 856,
+    "id": 840,
     "Great Britain": "",
     "North America": "",
     "United States": "sniveled",
@@ -2645,7 +2622,7 @@
     "notes": null
   },
   {
-    "id": 857,
+    "id": 841,
     "Great Britain": "",
     "North America": "",
     "United States": "sniveling",
@@ -2668,7 +2645,7 @@
     "notes": null
   },
   {
-    "id": 858,
+    "id": 842,
     "Great Britain": "",
     "North America": "spiraled",
     "United States": "",
@@ -2691,7 +2668,7 @@
     "notes": null
   },
   {
-    "id": 859,
+    "id": 843,
     "Great Britain": "",
     "North America": "spiraling",
     "United States": "",
@@ -2714,7 +2691,7 @@
     "notes": null
   },
   {
-    "id": 860,
+    "id": 844,
     "Great Britain": "",
     "North America": "",
     "United States": "squirreled",
@@ -2737,7 +2714,7 @@
     "notes": null
   },
   {
-    "id": 861,
+    "id": 845,
     "Great Britain": "",
     "North America": "",
     "United States": "squirreling",
@@ -2760,7 +2737,7 @@
     "notes": null
   },
   {
-    "id": 862,
+    "id": 846,
     "Great Britain": "",
     "North America": "stenciled",
     "United States": "",
@@ -2783,7 +2760,7 @@
     "notes": null
   },
   {
-    "id": 863,
+    "id": 847,
     "Great Britain": "",
     "North America": "stenciling",
     "United States": "",
@@ -2806,7 +2783,7 @@
     "notes": null
   },
   {
-    "id": 864,
+    "id": 848,
     "Great Britain": "",
     "North America": "",
     "United States": "swiveled",
@@ -2829,7 +2806,7 @@
     "notes": null
   },
   {
-    "id": 865,
+    "id": 849,
     "Great Britain": "",
     "North America": "",
     "United States": "swiveling",
@@ -2852,7 +2829,7 @@
     "notes": null
   },
   {
-    "id": 868,
+    "id": 852,
     "Great Britain": "",
     "North America": "",
     "United States": "totaled",
@@ -2875,7 +2852,7 @@
     "notes": null
   },
   {
-    "id": 869,
+    "id": 853,
     "Great Britain": "",
     "North America": "",
     "United States": "totaling",
@@ -2898,7 +2875,7 @@
     "notes": null
   },
   {
-    "id": 870,
+    "id": 854,
     "Great Britain": "",
     "North America": "toweled",
     "United States": "",
@@ -2921,7 +2898,7 @@
     "notes": null
   },
   {
-    "id": 871,
+    "id": 855,
     "Great Britain": "",
     "North America": "toweling",
     "United States": "",
@@ -2944,7 +2921,7 @@
     "notes": null
   },
   {
-    "id": 872,
+    "id": 856,
     "Great Britain": "",
     "North America": "",
     "United States": "trammeled",
@@ -2967,7 +2944,7 @@
     "notes": null
   },
   {
-    "id": 873,
+    "id": 857,
     "Great Britain": "",
     "North America": "",
     "United States": "trammeling",
@@ -2990,7 +2967,7 @@
     "notes": null
   },
   {
-    "id": 874,
+    "id": 858,
     "Great Britain": "trialled",
     "North America": "",
     "United States": "trialed",
@@ -3013,7 +2990,7 @@
     "notes": null
   },
   {
-    "id": 875,
+    "id": 859,
     "Great Britain": "trialling",
     "North America": "",
     "United States": "trialing",
@@ -3036,7 +3013,7 @@
     "notes": null
   },
   {
-    "id": 877,
+    "id": 861,
     "Great Britain": "",
     "North America": "tunneled",
     "United States": "",
@@ -3059,7 +3036,7 @@
     "notes": null
   },
   {
-    "id": 878,
+    "id": 862,
     "Great Britain": "",
     "North America": "tunneling",
     "United States": "",
@@ -3082,7 +3059,7 @@
     "notes": null
   },
   {
-    "id": 879,
+    "id": 863,
     "Great Britain": "",
     "North America": "",
     "United States": "unraveled",
@@ -3105,7 +3082,7 @@
     "notes": null
   },
   {
-    "id": 880,
+    "id": 864,
     "Great Britain": "",
     "North America": "",
     "United States": "unraveling",
@@ -3128,7 +3105,7 @@
     "notes": null
   },
   {
-    "id": 882,
+    "id": 866,
     "Great Britain": "",
     "North America": "",
     "United States": "yodeled",
@@ -3151,7 +3128,7 @@
     "notes": null
   },
   {
-    "id": 883,
+    "id": 867,
     "Great Britain": "",
     "North America": "",
     "United States": "yodeling",
@@ -3174,7 +3151,7 @@
     "notes": null
   },
   {
-    "id": 894,
+    "id": 878,
     "Great Britain": "bunged",
     "North America": "",
     "United States": "",
@@ -3197,7 +3174,7 @@
     "notes": null
   },
   {
-    "id": 895,
+    "id": 879,
     "Great Britain": "bunging",
     "North America": "",
     "United States": "",
@@ -3220,7 +3197,7 @@
     "notes": null
   },
   {
-    "id": 993,
+    "id": 977,
     "Great Britain": "",
     "North America": "accomodations",
     "United States": "",
@@ -3243,7 +3220,7 @@
     "notes": null
   },
   {
-    "id": 1113,
+    "id": 1096,
     "Great Britain": "beddy-eyes",
     "North America": "",
     "United States": "",
@@ -3266,7 +3243,7 @@
     "notes": null
   },
   {
-    "id": 1687,
+    "id": 1670,
     "Great Britain": "",
     "North America": "blinders",
     "United States": "",
@@ -3289,7 +3266,7 @@
     "notes": null
   },
   {
-    "id": 1703,
+    "id": 1686,
     "Great Britain": "",
     "North America": "",
     "United States": "buses",
@@ -3312,7 +3289,7 @@
     "notes": null
   },
   {
-    "id": 1704,
+    "id": 1687,
     "Great Britain": "",
     "North America": "",
     "United States": "counselor",
@@ -3335,7 +3312,7 @@
     "notes": null
   },
   {
-    "id": 1705,
+    "id": 1688,
     "Great Britain": "",
     "North America": "labeled",
     "United States": "",
@@ -3358,7 +3335,7 @@
     "notes": null
   },
   {
-    "id": 1706,
+    "id": 1689,
     "Great Britain": "",
     "North America": "",
     "United States": "traveler",
@@ -3381,7 +3358,7 @@
     "notes": null
   },
   {
-    "id": 1707,
+    "id": 1690,
     "Great Britain": "",
     "North America": "",
     "United States": "traveling",
@@ -3404,7 +3381,7 @@
     "notes": null
   },
   {
-    "id": 1708,
+    "id": 1691,
     "Great Britain": "roadworks",
     "North America": "roadwork",
     "United States": "",
@@ -3427,7 +3404,7 @@
     "notes": null
   },
   {
-    "id": 1917,
+    "id": 1900,
     "Great Britain": "",
     "North America": "",
     "United States": "",
@@ -3450,7 +3427,7 @@
     "notes": null
   },
   {
-    "id": 1953,
+    "id": 1936,
     "Great Britain": "argy-bargies",
     "North America": "",
     "United States": "",
@@ -3473,7 +3450,7 @@
     "notes": null
   },
   {
-    "id": 2005,
+    "id": 1988,
     "Great Britain": "",
     "North America": "",
     "United States": "practices",
@@ -3496,7 +3473,7 @@
     "notes": "Its infinitive form \"practice\" can also be a noun, which is acceptable in every regions."
   },
   {
-    "id": 2006,
+    "id": 1989,
     "Great Britain": "",
     "North America": "",
     "United States": "practiced",
@@ -3519,7 +3496,7 @@
     "notes": "Its infinitive form \"practice\" can also be a noun, which is acceptable in every regions."
   },
   {
-    "id": 2007,
+    "id": 1990,
     "Great Britain": "",
     "North America": "",
     "United States": "practicing",
@@ -3542,7 +3519,7 @@
     "notes": "Its infinitive form \"practice\" can also be a noun, which is acceptable in every regions."
   },
   {
-    "id": 2015,
+    "id": 1998,
     "Great Britain": "",
     "North America": "",
     "United States": "",
@@ -3565,7 +3542,7 @@
     "notes": null
   },
   {
-    "id": 2016,
+    "id": 1999,
     "Great Britain": "",
     "North America": "",
     "United States": "",
@@ -3588,7 +3565,7 @@
     "notes": null
   },
   {
-    "id": 2018,
+    "id": 2001,
     "Great Britain": "wees",
     "North America": "",
     "United States": "",
@@ -3611,7 +3588,7 @@
     "notes": null
   },
   {
-    "id": 2019,
+    "id": 2002,
     "Great Britain": "weeing",
     "North America": "",
     "United States": "",
@@ -3634,7 +3611,7 @@
     "notes": null
   },
   {
-    "id": 2020,
+    "id": 2003,
     "Great Britain": "weed",
     "North America": "",
     "United States": "",
@@ -3657,7 +3634,7 @@
     "notes": null
   },
   {
-    "id": 2021,
+    "id": 2004,
     "Great Britain": "",
     "North America": "offed",
     "United States": "",
@@ -3680,7 +3657,7 @@
     "notes": null
   },
   {
-    "id": 2022,
+    "id": 2005,
     "Great Britain": "",
     "North America": "offing",
     "United States": "",
@@ -3703,7 +3680,7 @@
     "notes": null
   },
   {
-    "id": 2023,
+    "id": 2006,
     "Great Britain": "",
     "North America": "offs",
     "United States": "",
@@ -3726,7 +3703,7 @@
     "notes": null
   },
   {
-    "id": 2097,
+    "id": 2080,
     "Great Britain": "",
     "North America": "compunctions",
     "United States": "",
