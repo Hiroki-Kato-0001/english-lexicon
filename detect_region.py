@@ -1,7 +1,7 @@
 import re
 import spacy
 import collections
-
+import matplotlib.pyplot as plt
 
 def detect_region_inflection(text, lexicon_inflection, brit_count, name_count, us_count, can_count, austral_count,
                              nz_count, scot_count, irish_count, ind_count, eafr_count, wafr_count, safr_count,
@@ -171,6 +171,7 @@ def detect_region_phrase(text, lexicon_phrase, brit_count, name_count, us_count,
 
 # Load spaCy English model
 nlp = spacy.load("en_core_web_sm")
+nlp.max_length = 2000000  # Increase max length if needed
 
 def detect_region_with_spacy(text, lexicon_root, brit_count, name_count, us_count, can_count, austral_count,
                              nz_count, scot_count, irish_count, ind_count, eafr_count, wafr_count, safr_count,
@@ -203,60 +204,61 @@ def detect_region_with_spacy(text, lexicon_root, brit_count, name_count, us_coun
 
         if brit and brit in dict_counter.keys():
             brit_count += dict_counter[brit]
-            print(f"DEBUG: found Great Britain root: {brit}")
+            print(f"DEBUG: matched root Great Britain: {brit}")
         if name and name in dict_counter.keys():
             name_count += dict_counter[name]
-            print(f"DEBUG: found North America root: {name}")
+            print(f"DEBUG: matched root North America: {name}")
         if us and us in dict_counter.keys():
             us_count += dict_counter[us]
-            print(f"DEBUG: found North America root: {us}")
+            print(f"DEBUG: matched root United States: {us}")
         if can and can in dict_counter.keys():
             can_count += dict_counter[can]
-            print(f"DEBUG: found Canada root: {can}")
+            print(f"DEBUG: matched root Canada: {can}")
         if austral and austral in dict_counter.keys():
             austral_count += dict_counter[austral]
-            print(f"DEBUG: found Australia root: {austral}")
+            print(f"DEBUG: matched root Australia: {austral}")
         if nz and nz in dict_counter.keys():
             nz_count += dict_counter[nz]
-            print(f"DEBUG: found New Zealand root: {nz}")
+            print(f"DEBUG: matched root New Zealand: {nz}")
         if scot and scot in dict_counter.keys():
             scot_count += dict_counter[scot]
-            print(f"DEBUG: found Scotland root: {scot}")
+            print(f"DEBUG: matched root Scotland: {scot}")
         if irish and irish in dict_counter.keys():
             irish_count += dict_counter[irish]
-            print(f"DEBUG: found Ireland root: {irish}")
+            print(f"DEBUG: matched root Ireland: {irish}")
         if ind and ind in dict_counter.keys():
             ind_count += dict_counter[ind]
-            print(f"DEBUG: found India root: {ind}")
+            print(f"DEBUG: matched root India: {ind}")
         if eafr and eafr in dict_counter.keys():
             eafr_count += dict_counter[eafr]
-            print(f"DEBUG: found East Africa root: {eafr}")
+            print(f"DEBUG: matched root East Africa: {eafr}")
         if wafr and wafr in dict_counter.keys():
             wafr_count += dict_counter[wafr]
-            print(f"DEBUG: found West Africa root: {wafr}")
+            print(f"DEBUG: matched root West Africa: {wafr}")
         if safr and safr in dict_counter.keys():
             safr_count += dict_counter[safr]
-            print(f"DEBUG: found South Africa root: {safr}")
+            print(f"DEBUG: matched root South Africa: {safr}")
         if nafr and nafr in dict_counter.keys():
             nafr_count += dict_counter[nafr]
-            print(f"DEBUG: found North Africa root: {nafr}")
+            print(f"DEBUG: matched root North Africa: {nafr}")
         if neng and neng in dict_counter.keys():
             neng_count += dict_counter[neng]
-            print(f"DEBUG: found New England root: {neng}")
+            print(f"DEBUG: matched root New England: {neng}")
         if easi and easi in dict_counter.keys():
             easi_count += dict_counter[easi]
-            print(f"DEBUG: found East Asia root: {easi}")
+            print(f"DEBUG: matched root East Asia: {easi}")
         if wasi and wasi in dict_counter.keys():
             wasi_count += dict_counter[wasi]
-            print(f"DEBUG: found West Asia root: {wasi}")
+            print(f"DEBUG: matched root West Asia: {wasi}")
         if sasi and sasi in dict_counter.keys():
             sasi_count += dict_counter[sasi]
-            print(f"DEBUG: found South Asia root: {sasi}")
+            print(f"DEBUG: matched root South Asia: {sasi}")
         if nasi and nasi in dict_counter.keys():
             nasi_count += dict_counter[nasi]
-            print(f"DEBUG: found North Asia root: {nasi}")
+            print(f"DEBUG: matched root North Asia: {nasi}")
     print(f"DEBUG: after root detection, brit_count={brit_count}, name_count={name_count}, us_count={us_count}, can_count={can_count}, austral_count={austral_count}, nz_count={nz_count}, scot_count={scot_count}, irish_count={irish_count}, ind_count={ind_count}, eafr_count={eafr_count}, wafr_count={wafr_count}, safr_count={safr_count}, nafr_count={nafr_count}, neng_count={neng_count}, easi_count={easi_count}, wasi_count={wasi_count}, sasi_count={sasi_count}, nasi_count={nasi_count}")
     total = brit_count + name_count + us_count + can_count + austral_count + nz_count + scot_count + irish_count + ind_count + eafr_count + wafr_count + safr_count + nafr_count + neng_count + easi_count + wasi_count + sasi_count + nasi_count
+    
     return {
         "brit_count": brit_count,
         "name_count": name_count,
