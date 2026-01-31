@@ -3,6 +3,7 @@ from get_wikipedia_text import fetch_wikipedia_article
 from load_text_file import load_text_from_txt
 from load_pdf_file import load_text_from_pdf
 from detect_region import detect_region_inflection, detect_region_phrase, detect_region_with_spacy
+import visualise
 import json
 
 csv_file = "lexicon - raw data.csv"
@@ -65,4 +66,8 @@ with open('lexicon - root.json', 'r', encoding='utf-8') as f:
     lexicon_root = json.load(f)
 
 result = detect_region_with_spacy(text, lexicon_root, brit_count, name_count, us_count, can_count, austral_count, nz_count, scot_count, irish_count, ind_count, eafr_count, wafr_count, safr_count, nafr_count, neng_count, easi_count, wasi_count, sasi_count, nasi_count)
+
+image_path = visualise.plot_region_bar(result)
+
 print("Final detection result:", result)
+print(f"Bar chart saved to: {image_path}")
