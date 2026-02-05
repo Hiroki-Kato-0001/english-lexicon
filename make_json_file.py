@@ -33,7 +33,7 @@ def make_json_file(csv_file):
                 "East Asia": row['EAsi'].strip(),
                 "West Asia": row['WAsi'].strip(),
                 "South Asia": row['SAsi'].strip(),
-                "North Asia": row['NAsi'].strip(),
+                "South-East Asia": row['SEAsi'].strip(),
                 "source": row['source'].strip() if row['source'] else None,
                 "notes": row['note'].strip() if row['note'] else None
             }

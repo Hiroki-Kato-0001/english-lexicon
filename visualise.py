@@ -19,7 +19,7 @@ def plot_region_bar(counts: dict, output_path="images/region_counts.png"):
         "easi_count": "East Asia",
         "wasi_count": "West Asia",
         "sasi_count": "South Asia",
-        "nasi_count": "North Asia"
+        "seasi_count": "South-East Asia"
     }
     labels = []
     sizes = []

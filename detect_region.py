@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 
 def detect_region_inflection(text, lexicon_inflection, brit_count, name_count, us_count, can_count, austral_count,
                              nz_count, scot_count, irish_count, ind_count, eafr_count, wafr_count, safr_count,
-                             nafr_count, neng_count, easi_count, wasi_count, sasi_count, nasi_count):
+                             nafr_count, neng_count, easi_count, wasi_count, sasi_count, seasi_count):
 
     for entry in lexicon_inflection:
         brit = entry['Great Britain'].lower() if entry['Great Britain'] else None
@@ -25,7 +25,7 @@ def detect_region_inflection(text, lexicon_inflection, brit_count, name_count, u
         easi = entry['East Asia'].lower() if entry['East Asia'] else None
         wasi = entry['West Asia'].lower() if entry['West Asia'] else None
         sasi = entry['South Asia'].lower() if entry['South Asia'] else None
-        nasi = entry['North Asia'].lower() if entry['North Asia'] else None
+        seasi = entry['South-East Asia'].lower() if entry['South-East Asia'] else None
 
         if brit and re.search(rf"\b{re.escape(brit)}\b", text):
             brit_count += 1
@@ -78,17 +78,17 @@ def detect_region_inflection(text, lexicon_inflection, brit_count, name_count, u
         if sasi and re.search(rf"\b{re.escape(sasi)}\b", text):
             sasi_count += 1
             print("DEBUG: matched inflection South Asia:", sasi)
-        if nasi and re.search(rf"\b{re.escape(nasi)}\b", text):
-            nasi_count += 1
-            print("DEBUG: matched inflection North Asia:", nasi)
+        if seasi and re.search(rf"\b{re.escape(seasi)}\b", text):
+            seasi_count += 1
+            print("DEBUG: matched inflection South-East Asia:", seasi)
 
-    print(f"DEBUG: after inflection detection, brit_count={brit_count}, name_count={name_count}, us_count={us_count}, can_count={can_count}, austral_count={austral_count}, nz_count={nz_count}, scot_count={scot_count}, irish_count={irish_count}, ind_count={ind_count}, eafr_count={eafr_count}, wafr_count={wafr_count}, safr_count={safr_count}, nafr_count={nafr_count}, neng_count={neng_count}, easi_count={easi_count}, wasi_count={wasi_count}, sasi_count={sasi_count}, nasi_count={nasi_count}")
-    return brit_count, name_count, us_count, can_count, austral_count, nz_count, scot_count, irish_count, ind_count, eafr_count, wafr_count, safr_count, nafr_count, neng_count, easi_count, wasi_count, sasi_count, nasi_count
+    print(f"DEBUG: after inflection detection, brit_count={brit_count}, name_count={name_count}, us_count={us_count}, can_count={can_count}, austral_count={austral_count}, nz_count={nz_count}, scot_count={scot_count}, irish_count={irish_count}, ind_count={ind_count}, eafr_count={eafr_count}, wafr_count={wafr_count}, safr_count={safr_count}, nafr_count={nafr_count}, neng_count={neng_count}, easi_count={easi_count}, wasi_count={wasi_count}, sasi_count={sasi_count}, seasi_count={seasi_count}")
+    return brit_count, name_count, us_count, can_count, austral_count, nz_count, scot_count, irish_count, ind_count, eafr_count, wafr_count, safr_count, nafr_count, neng_count, easi_count, wasi_count, sasi_count, seasi_count
 
 
 def detect_region_phrase(text, lexicon_phrase, brit_count, name_count, us_count, can_count, austral_count,
                              nz_count, scot_count, irish_count, ind_count, eafr_count, wafr_count, safr_count,
-                             nafr_count, neng_count, easi_count, wasi_count, sasi_count, nasi_count):
+                             nafr_count, neng_count, easi_count, wasi_count, sasi_count, seasi_count):
 
     for entry in lexicon_phrase:
         brit = entry['Great Britain'].lower() if entry['Great Britain'] else None
@@ -108,7 +108,7 @@ def detect_region_phrase(text, lexicon_phrase, brit_count, name_count, us_count,
         easi = entry['East Asia'].lower() if entry['East Asia'] else None
         wasi = entry['West Asia'].lower() if entry['West Asia'] else None
         sasi = entry['South Asia'].lower() if entry['South Asia'] else None
-        nasi = entry['North Asia'].lower() if entry['North Asia'] else None
+        seasi = entry['South-East Asia'].lower() if entry['South-East Asia'] else None
 
         if brit and re.search(rf"\b{re.escape(brit)}\b", text):
             brit_count += 1
@@ -161,21 +161,21 @@ def detect_region_phrase(text, lexicon_phrase, brit_count, name_count, us_count,
         if sasi and re.search(rf"\b{re.escape(sasi)}\b", text):
             sasi_count += 1
             print("DEBUG: matched phrase South Asia:", sasi)
-        if nasi and re.search(rf"\b{re.escape(nasi)}\b", text):
-            nasi_count += 1
-            print("DEBUG: matched phrase North Asia:", nasi)
+        if seasi and re.search(rf"\b{re.escape(seasi)}\b", text):
+            seasi_count += 1
+            print("DEBUG: matched phrase South-East Asia:", seasi)
 
-    print(f"DEBUG: after phrase detection, brit_count={brit_count}, name_count={name_count}, us_count={us_count}, can_count={can_count}, austral_count={austral_count}, nz_count={nz_count}, scot_count={scot_count}, irish_count={irish_count}, ind_count={ind_count}, eafr_count={eafr_count}, wafr_count={wafr_count}, safr_count={safr_count}, nafr_count={nafr_count}, neng_count={neng_count}, easi_count={easi_count}, wasi_count={wasi_count}, sasi_count={sasi_count}, nasi_count={nasi_count}")
-    return brit_count, name_count, us_count, can_count, austral_count, nz_count, scot_count, irish_count, ind_count, eafr_count, wafr_count, safr_count, nafr_count, neng_count, easi_count, wasi_count, sasi_count, nasi_count
+    print(f"DEBUG: after phrase detection, brit_count={brit_count}, name_count={name_count}, us_count={us_count}, can_count={can_count}, austral_count={austral_count}, nz_count={nz_count}, scot_count={scot_count}, irish_count={irish_count}, ind_count={ind_count}, eafr_count={eafr_count}, wafr_count={wafr_count}, safr_count={safr_count}, nafr_count={nafr_count}, neng_count={neng_count}, easi_count={easi_count}, wasi_count={wasi_count}, sasi_count={sasi_count}, seasi_count={seasi_count}")
+    return brit_count, name_count, us_count, can_count, austral_count, nz_count, scot_count, irish_count, ind_count, eafr_count, wafr_count, safr_count, nafr_count, neng_count, easi_count, wasi_count, sasi_count, seasi_count
 
 
 # Load spaCy English model
 nlp = spacy.load("en_core_web_sm")
-nlp.max_length = 2000000  # Increase max length if needed
+nlp.max_length = 6000000  # Increase max length if needed
 
 def detect_region_with_spacy(text, lexicon_root, brit_count, name_count, us_count, can_count, austral_count,
                              nz_count, scot_count, irish_count, ind_count, eafr_count, wafr_count, safr_count,
-                             nafr_count, neng_count, easi_count, wasi_count, sasi_count, nasi_count):
+                             nafr_count, neng_count, easi_count, wasi_count, sasi_count, seasi_count):
 
     doc = nlp(text)
     lemmas = [token.lemma_ for token in doc]
@@ -199,8 +199,8 @@ def detect_region_with_spacy(text, lexicon_root, brit_count, name_count, us_coun
         easi = entry['East Asia'].lower() if entry['East Asia'] else None
         wasi = entry['West Asia'].lower() if entry['West Asia'] else None
         sasi = entry['South Asia'].lower() if entry['South Asia'] else None
-        nasi = entry['North Asia'].lower() if entry['North Asia'] else None
-
+        seasi = entry['South-East Asia'].lower() if entry['South-East Asia'] else None
+    
 
         if brit and brit in dict_counter.keys():
             brit_count += dict_counter[brit]
@@ -253,11 +253,11 @@ def detect_region_with_spacy(text, lexicon_root, brit_count, name_count, us_coun
         if sasi and sasi in dict_counter.keys():
             sasi_count += dict_counter[sasi]
             print(f"DEBUG: matched root South Asia: {sasi}")
-        if nasi and nasi in dict_counter.keys():
-            nasi_count += dict_counter[nasi]
-            print(f"DEBUG: matched root North Asia: {nasi}")
-    print(f"DEBUG: after root detection, brit_count={brit_count}, name_count={name_count}, us_count={us_count}, can_count={can_count}, austral_count={austral_count}, nz_count={nz_count}, scot_count={scot_count}, irish_count={irish_count}, ind_count={ind_count}, eafr_count={eafr_count}, wafr_count={wafr_count}, safr_count={safr_count}, nafr_count={nafr_count}, neng_count={neng_count}, easi_count={easi_count}, wasi_count={wasi_count}, sasi_count={sasi_count}, nasi_count={nasi_count}")
-    total = brit_count + name_count + us_count + can_count + austral_count + nz_count + scot_count + irish_count + ind_count + eafr_count + wafr_count + safr_count + nafr_count + neng_count + easi_count + wasi_count + sasi_count + nasi_count
+        if seasi and seasi in dict_counter.keys():
+            seasi_count += dict_counter[seasi]
+            print(f"DEBUG: matched root South-East Asia: {seasi}")
+    print(f"DEBUG: after root detection, brit_count={brit_count}, name_count={name_count}, us_count={us_count}, can_count={can_count}, austral_count={austral_count}, nz_count={nz_count}, scot_count={scot_count}, irish_count={irish_count}, ind_count={ind_count}, eafr_count={eafr_count}, wafr_count={wafr_count}, safr_count={safr_count}, nafr_count={nafr_count}, neng_count={neng_count}, easi_count={easi_count}, wasi_count={wasi_count}, sasi_count={sasi_count}, seasi_count={seasi_count}")
+    total = brit_count + name_count + us_count + can_count + austral_count + nz_count + scot_count + irish_count + ind_count + eafr_count + wafr_count + safr_count + nafr_count + neng_count + easi_count + wasi_count + sasi_count + seasi_count
     
     return {
         "brit_count": brit_count,
@@ -277,7 +277,7 @@ def detect_region_with_spacy(text, lexicon_root, brit_count, name_count, us_coun
         "easi_count": easi_count,
         "wasi_count": wasi_count,
         "sasi_count": sasi_count,
-        "nasi_count": nasi_count,
+        "seasi_count": seasi_count,
         "total": total
     }
 

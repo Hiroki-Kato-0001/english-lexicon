@@ -47,25 +47,25 @@ neng_count = 0
 easi_count = 0
 wasi_count = 0
 sasi_count = 0
-nasi_count = 0
+seasi_count = 0
 
 # Load lexicon for inflections from JSON file
 with open('lexicon - inflection.json', 'r', encoding='utf-8') as f:
     lexicon_inflection = json.load(f)
 
-brit_count, name_count, us_count, can_count, austral_count, nz_count, scot_count, irish_count, ind_count, eafr_count, wafr_count, safr_count, nafr_count, neng_count, easi_count, wasi_count, sasi_count, nasi_count = detect_region_inflection(text, lexicon_inflection, brit_count, name_count, us_count, can_count, austral_count, nz_count, scot_count, irish_count, ind_count, eafr_count, wafr_count, safr_count, nafr_count, neng_count, easi_count, wasi_count, sasi_count, nasi_count)
+brit_count, name_count, us_count, can_count, austral_count, nz_count, scot_count, irish_count, ind_count, eafr_count, wafr_count, safr_count, nafr_count, neng_count, easi_count, wasi_count, sasi_count, seasi_count = detect_region_inflection(text, lexicon_inflection, brit_count, name_count, us_count, can_count, austral_count, nz_count, scot_count, irish_count, ind_count, eafr_count, wafr_count, safr_count, nafr_count, neng_count, easi_count, wasi_count, sasi_count, seasi_count)
 
 # Load lexicon for phrases from JSON file
 with open('lexicon - phrase.json', 'r', encoding='utf-8') as f:
     lexicon_phrase = json.load(f)
 
-brit_count, name_count, us_count, can_count, austral_count, nz_count, scot_count, irish_count, ind_count, eafr_count, wafr_count, safr_count, nafr_count, neng_count, easi_count, wasi_count, sasi_count, nasi_count = detect_region_phrase(text, lexicon_phrase, brit_count, name_count, us_count, can_count, austral_count, nz_count, scot_count, irish_count, ind_count, eafr_count, wafr_count, safr_count, nafr_count, neng_count, easi_count, wasi_count, sasi_count, nasi_count)
+brit_count, name_count, us_count, can_count, austral_count, nz_count, scot_count, irish_count, ind_count, eafr_count, wafr_count, safr_count, nafr_count, neng_count, easi_count, wasi_count, sasi_count, seasi_count = detect_region_phrase(text, lexicon_phrase, brit_count, name_count, us_count, can_count, austral_count, nz_count, scot_count, irish_count, ind_count, eafr_count, wafr_count, safr_count, nafr_count, neng_count, easi_count, wasi_count, sasi_count, seasi_count)
 
 # Load lexicon for roots from JSON file
 with open('lexicon - root.json', 'r', encoding='utf-8') as f:
     lexicon_root = json.load(f)
 
-result = detect_region_with_spacy(text, lexicon_root, brit_count, name_count, us_count, can_count, austral_count, nz_count, scot_count, irish_count, ind_count, eafr_count, wafr_count, safr_count, nafr_count, neng_count, easi_count, wasi_count, sasi_count, nasi_count)
+result = detect_region_with_spacy(text, lexicon_root, brit_count, name_count, us_count, can_count, austral_count, nz_count, scot_count, irish_count, ind_count, eafr_count, wafr_count, safr_count, nafr_count, neng_count, easi_count, wasi_count, sasi_count, seasi_count)
 
 image_path = visualise.plot_region_bar(result)
 
