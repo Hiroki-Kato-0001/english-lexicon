@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 
 def plot_region_bar(counts: dict, output_path="images/region_counts.png"):
     keys_to_labels = {
-        "brit_count": "Great Britain",
+        "uk_count": "United Kingdom",
         "name_count": "North America (General)",
         "us_count": "United States",
         "can_count": "Canada",
@@ -12,7 +12,7 @@ def plot_region_bar(counts: dict, output_path="images/region_counts.png"):
         "irish_count": "Ireland",
         "ind_count": "India",
         "eafr_count": "East African",
-        "wafr_count": "West Africa",
+        "welsh_count": "Wales",
         "safr_count": "South Africa",
         "nafr_count": "North Africa",
         "neng_count": "New England",

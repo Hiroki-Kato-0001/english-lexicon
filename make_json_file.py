@@ -11,29 +11,30 @@ def make_json_file(csv_file):
     with open(csv_file, newline='', encoding='utf-8') as f:
         reader = csv.DictReader(f)
         for row in reader:
-            # rows without category entries are skipped
-            if not row['category']:
-                continue        
+            # rows without word entries are skipped
+            if not row['word']:
+                continue 
             entry = {
                 "id": int(row['id']) if row['id'] else None,
-                "Great Britain": row['Brit'].strip(),
-                "North America": row['NAme'].strip(),
-                "United States": row['US'].strip(),
-                "Canada": row['Can'].strip(),
-                "Australia": row['Austral'].strip(),
-                "New Zealand": row['NZ'].strip(),
-                "Scotland": row['Scot'].strip(),
-                "Ireland": row['Irish'].strip(),
-                "India": row['Ind'].strip(),
-                "East Africa": row['EAfr'].strip(),
-                "West Africa": row['WAfr'].strip(),
-                "South Africa": row['SAfr'].strip(),
-                "North Africa": row['NAfr'].strip(),
-                "New England": row['NEng'].strip(),
-                "East Asia": row['EAsi'].strip(),
-                "West Asia": row['WAsi'].strip(),
-                "South Asia": row['SAsi'].strip(),
-                "South-East Asia": row['SEAsi'].strip(),
+                "word": row['word'].strip() if row['word'] else None,
+                "region": row['region'].strip() if row['region'] else None,
+                #"North America": row['NAme'].strip(),
+                #"United States": row['US'].strip(),
+                #"Canada": row['Can'].strip(),
+                #"Australia": row['Austral'].strip(),
+                #"New Zealand": row['NZ'].strip(),
+                #"Scotland": row['Scot'].strip(),
+                #"Ireland": row['Irish'].strip(),
+                #"India": row['Ind'].strip(),
+                #"East Africa": row['EAfr'].strip(),
+                #"West Africa": row['WAfr'].strip(),
+                #"South Africa": row['SAfr'].strip(),
+                #"North Africa": row['NAfr'].strip(),
+                #"New England": row['NEng'].strip(),
+                #"East Asia": row['EAsi'].strip(),
+                #"West Asia": row['WAsi'].strip(),
+                #"South Asia": row['SAsi'].strip(),
+                #"South-East Asia": row['SEAsi'].strip(),
                 "source": row['source'].strip() if row['source'] else None,
                 "notes": row['note'].strip() if row['note'] else None
             }
