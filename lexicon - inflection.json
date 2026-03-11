@@ -1,1332 +1,1332 @@
 [
   {
-    "id": 108,
+    "entry_type_code": "inflection",
     "word": "aerials",
-    "region": "United Kingdom",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "uk",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 168,
+    "entry_type_code": "inflection",
     "word": "learnt",
-    "region": "United Kingdom",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "uk",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 169,
+    "entry_type_code": "inflection",
     "word": "spoilt",
-    "region": "United Kingdom",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "uk",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 170,
+    "entry_type_code": "inflection",
     "word": "spelt",
-    "region": "United Kingdom",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "uk",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 171,
+    "entry_type_code": "inflection",
     "word": "burnt",
-    "region": "United Kingdom",
-    "source": "Oxford Dictionary of English Second Edition Revised",
-    "notes": null
+    "region_code": "uk",
+    "source_code": "ode_2",
+    "note": null
   },
   {
-    "id": 172,
+    "entry_type_code": "inflection",
     "word": "smelt",
-    "region": "United Kingdom",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "uk",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 173,
+    "entry_type_code": "inflection",
     "word": "spilt",
-    "region": "United Kingdom",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "uk",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 174,
+    "entry_type_code": "inflection",
     "word": "banisters",
-    "region": "United Kingdom",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "uk",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 481,
+    "entry_type_code": "inflection",
     "word": "chiselled",
-    "region": "United Kingdom",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "uk",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 482,
+    "entry_type_code": "inflection",
     "word": "cudgelled",
-    "region": "United Kingdom",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "uk",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 483,
+    "entry_type_code": "inflection",
     "word": "cudgelling",
-    "region": "United Kingdom",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "uk",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 486,
+    "entry_type_code": "inflection",
     "word": "parcelled",
-    "region": "United Kingdom",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "uk",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 487,
+    "entry_type_code": "inflection",
     "word": "parcelling",
-    "region": "United Kingdom",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "uk",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 491,
+    "entry_type_code": "inflection",
     "word": "trialled",
-    "region": "United Kingdom",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "uk",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 492,
+    "entry_type_code": "inflection",
     "word": "trialling",
-    "region": "United Kingdom",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "uk",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 498,
+    "entry_type_code": "inflection",
     "word": "bunged",
-    "region": "United Kingdom",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "uk",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 499,
+    "entry_type_code": "inflection",
     "word": "bunging",
-    "region": "United Kingdom",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "uk",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 597,
+    "entry_type_code": "inflection",
     "word": "beddy-eyes",
-    "region": "United Kingdom",
-    "source": "Merriam-Webster's Collegiate Dictionary Eleventh Edition",
-    "notes": null
+    "region_code": "uk",
+    "source_code": "mwcd_11",
+    "note": null
   },
   {
-    "id": 1080,
+    "entry_type_code": "inflection",
     "word": "roadworks",
-    "region": "United Kingdom",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "uk",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 1225,
+    "entry_type_code": "inflection",
     "word": "argy-bargies",
-    "region": "United Kingdom",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "uk",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 1255,
+    "entry_type_code": "inflection",
     "word": "wees",
-    "region": "United Kingdom",
-    "source": "Oxford Dictionary of English Second Edition Revised",
-    "notes": null
+    "region_code": "uk",
+    "source_code": "ode_2",
+    "note": null
   },
   {
-    "id": 1256,
+    "entry_type_code": "inflection",
     "word": "weeing",
-    "region": "United Kingdom",
-    "source": "Oxford Dictionary of English Second Edition Revised",
-    "notes": null
+    "region_code": "uk",
+    "source_code": "ode_2",
+    "note": null
   },
   {
-    "id": 1257,
+    "entry_type_code": "inflection",
     "word": "weed",
-    "region": "United Kingdom",
-    "source": "Oxford Dictionary of English Second Edition Revised",
-    "notes": null
+    "region_code": "uk",
+    "source_code": "ode_2",
+    "note": null
   },
   {
-    "id": 1455,
+    "entry_type_code": "inflection",
     "word": "abc",
-    "region": "United Kingdom",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "uk",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 1542,
+    "entry_type_code": "inflection",
     "word": "trousers",
-    "region": "United Kingdom",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "uk",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 1543,
+    "entry_type_code": "inflection",
     "word": "maths",
-    "region": "United Kingdom",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "uk",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 1654,
+    "entry_type_code": "inflection",
     "word": "kitted",
-    "region": "United Kingdom",
-    "source": "Merriam-Webster's Collegiate Dictionary Eleventh Edition",
-    "notes": null
+    "region_code": "uk",
+    "source_code": "mwcd_11",
+    "note": null
   },
   {
-    "id": 1655,
+    "entry_type_code": "inflection",
     "word": "kitting",
-    "region": "United Kingdom",
-    "source": "Merriam-Webster's Collegiate Dictionary Eleventh Edition",
-    "notes": null
+    "region_code": "uk",
+    "source_code": "mwcd_11",
+    "note": null
   },
   {
-    "id": 1765,
+    "entry_type_code": "inflection",
     "word": "jollies",
-    "region": "United Kingdom",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "uk",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 1766,
+    "entry_type_code": "inflection",
     "word": "jollied",
-    "region": "United Kingdom",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "uk",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 1767,
+    "entry_type_code": "inflection",
     "word": "jollying",
-    "region": "United Kingdom",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "uk",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 1882,
+    "entry_type_code": "inflection",
     "word": "barreled",
-    "region": "North America",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "name",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 1883,
+    "entry_type_code": "inflection",
     "word": "barreling",
-    "region": "North America",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "name",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 1900,
+    "entry_type_code": "inflection",
     "word": "candelabrums",
-    "region": "North America",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "name",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 1929,
+    "entry_type_code": "inflection",
     "word": "credentialed",
-    "region": "North America",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "name",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 1930,
+    "entry_type_code": "inflection",
     "word": "credentialing",
-    "region": "North America",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "name",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 1931,
+    "entry_type_code": "inflection",
     "word": "cudgeled",
-    "region": "North America",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "name",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 1932,
+    "entry_type_code": "inflection",
     "word": "cudgeling",
-    "region": "North America",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "name",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 1933,
+    "entry_type_code": "inflection",
     "word": "decontrolled",
-    "region": "North America",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "name",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 1934,
+    "entry_type_code": "inflection",
     "word": "decontrolling",
-    "region": "North America",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "name",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 1938,
+    "entry_type_code": "inflection",
     "word": "rivaled",
-    "region": "North America",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "name",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 1939,
+    "entry_type_code": "inflection",
     "word": "rivaling",
-    "region": "North America",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "name",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 1940,
+    "entry_type_code": "inflection",
     "word": "spiraled",
-    "region": "North America",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "name",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 1941,
+    "entry_type_code": "inflection",
     "word": "spiraling",
-    "region": "North America",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "name",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 1942,
+    "entry_type_code": "inflection",
     "word": "stenciled",
-    "region": "North America",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "name",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 1943,
+    "entry_type_code": "inflection",
     "word": "stenciling",
-    "region": "North America",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "name",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 1944,
+    "entry_type_code": "inflection",
     "word": "toweled",
-    "region": "North America",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "name",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 1945,
+    "entry_type_code": "inflection",
     "word": "toweling",
-    "region": "North America",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "name",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 1947,
+    "entry_type_code": "inflection",
     "word": "tunneled",
-    "region": "North America",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "name",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 1948,
+    "entry_type_code": "inflection",
     "word": "tunneling",
-    "region": "North America",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "name",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 1958,
+    "entry_type_code": "inflection",
     "word": "accomodations",
-    "region": "North America",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "name",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2131,
+    "entry_type_code": "inflection",
     "word": "blinders",
-    "region": "North America",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "name",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2138,
+    "entry_type_code": "inflection",
     "word": "labeled",
-    "region": "North America",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "name",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2139,
+    "entry_type_code": "inflection",
     "word": "roadwork",
-    "region": "North America",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "name",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2285,
+    "entry_type_code": "inflection",
     "word": "offed",
-    "region": "North America",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "name",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2286,
+    "entry_type_code": "inflection",
     "word": "offing",
-    "region": "North America",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "name",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2287,
+    "entry_type_code": "inflection",
     "word": "offs",
-    "region": "North America",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "name",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2307,
+    "entry_type_code": "inflection",
     "word": "compunctions",
-    "region": "North America",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "name",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2361,
+    "entry_type_code": "inflection",
     "word": "court-martialed",
-    "region": "North America",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "name",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2362,
+    "entry_type_code": "inflection",
     "word": "court-martialing",
-    "region": "North America",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "name",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2385,
+    "entry_type_code": "inflection",
     "word": "dialed",
-    "region": "North America",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "name",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2386,
+    "entry_type_code": "inflection",
     "word": "dialing",
-    "region": "North America",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "name",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2389,
+    "entry_type_code": "inflection",
     "word": "abcs",
-    "region": "North America",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "name",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2390,
+    "entry_type_code": "inflection",
     "word": "back-pedaling",
-    "region": "North America",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "name",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2391,
+    "entry_type_code": "inflection",
     "word": "back-pedaled",
-    "region": "North America",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "name",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2392,
+    "entry_type_code": "inflection",
     "word": "bagpipe",
-    "region": "North America",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "name",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2499,
+    "entry_type_code": "inflection",
     "word": "bleachers",
-    "region": "North America",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "name",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2537,
+    "entry_type_code": "inflection",
     "word": "bigs",
-    "region": "North America",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "name",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2539,
+    "entry_type_code": "inflection",
     "word": "dove",
-    "region": "North America",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "name",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2540,
+    "entry_type_code": "inflection",
     "word": "kneeled",
-    "region": "North America",
-    "source": "Oxford Dictionary of English Second Edition Revised",
-    "notes": null
+    "region_code": "name",
+    "source_code": "ode_2",
+    "note": null
   },
   {
-    "id": 2541,
+    "entry_type_code": "inflection",
     "word": "gotten",
-    "region": "North America",
-    "source": "Oxford Dictionary of English Second Edition Revised",
-    "notes": null
+    "region_code": "name",
+    "source_code": "ode_2",
+    "note": null
   },
   {
-    "id": 2542,
+    "entry_type_code": "inflection",
     "word": "sprung",
-    "region": "North America",
-    "source": "Oxford Dictionary of English Second Edition Revised",
-    "notes": null
+    "region_code": "name",
+    "source_code": "ode_2",
+    "note": null
   },
   {
-    "id": 2543,
+    "entry_type_code": "inflection",
     "word": "snuck",
-    "region": "North America",
-    "source": "Oxford Dictionary of English Second Edition Revised",
-    "notes": null
+    "region_code": "name",
+    "source_code": "ode_2",
+    "note": null
   },
   {
-    "id": 2582,
+    "entry_type_code": "inflection",
     "word": "beaned",
-    "region": "North America",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "name",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2583,
+    "entry_type_code": "inflection",
     "word": "beaning",
-    "region": "North America",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "name",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2603,
+    "entry_type_code": "inflection",
     "word": "stoplights",
-    "region": "North America",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "name",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2680,
+    "entry_type_code": "inflection",
     "word": "quarreled",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2681,
+    "entry_type_code": "inflection",
     "word": "quarreling",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2682,
+    "entry_type_code": "inflection",
     "word": "canceled",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2683,
+    "entry_type_code": "inflection",
     "word": "canceling",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2684,
+    "entry_type_code": "inflection",
     "word": "caroled",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2685,
+    "entry_type_code": "inflection",
     "word": "caroling",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2686,
+    "entry_type_code": "inflection",
     "word": "channeled",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2687,
+    "entry_type_code": "inflection",
     "word": "channeling",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2688,
+    "entry_type_code": "inflection",
     "word": "chiseled",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2689,
+    "entry_type_code": "inflection",
     "word": "chiseling",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2691,
+    "entry_type_code": "inflection",
     "word": "corrals",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2692,
+    "entry_type_code": "inflection",
     "word": "corraled",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2693,
+    "entry_type_code": "inflection",
     "word": "corraling",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2694,
+    "entry_type_code": "inflection",
     "word": "counseled",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2695,
+    "entry_type_code": "inflection",
     "word": "counseling",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2697,
+    "entry_type_code": "inflection",
     "word": "disemboweled",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2698,
+    "entry_type_code": "inflection",
     "word": "disemboweling",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2702,
+    "entry_type_code": "inflection",
     "word": "funneled",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2703,
+    "entry_type_code": "inflection",
     "word": "funneling",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2704,
+    "entry_type_code": "inflection",
     "word": "gamboled",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2705,
+    "entry_type_code": "inflection",
     "word": "gamboling",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2706,
+    "entry_type_code": "inflection",
     "word": "caviled",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2707,
+    "entry_type_code": "inflection",
     "word": "caviling",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2709,
+    "entry_type_code": "inflection",
     "word": "groveled",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2710,
+    "entry_type_code": "inflection",
     "word": "groveling",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2711,
+    "entry_type_code": "inflection",
     "word": "imperiled",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2712,
+    "entry_type_code": "inflection",
     "word": "imperiling",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2713,
+    "entry_type_code": "inflection",
     "word": "initialed",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2714,
+    "entry_type_code": "inflection",
     "word": "initialing",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2715,
+    "entry_type_code": "inflection",
     "word": "leveled",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2716,
+    "entry_type_code": "inflection",
     "word": "leveling",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2717,
+    "entry_type_code": "inflection",
     "word": "libeled",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2718,
+    "entry_type_code": "inflection",
     "word": "libeling",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2719,
+    "entry_type_code": "inflection",
     "word": "marveled",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2720,
+    "entry_type_code": "inflection",
     "word": "marveling",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2721,
+    "entry_type_code": "inflection",
     "word": "medaled",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2722,
+    "entry_type_code": "inflection",
     "word": "medaling",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2723,
+    "entry_type_code": "inflection",
     "word": "paneled",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2724,
+    "entry_type_code": "inflection",
     "word": "paneling",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2725,
+    "entry_type_code": "inflection",
     "word": "parceled",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2726,
+    "entry_type_code": "inflection",
     "word": "parceling",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2727,
+    "entry_type_code": "inflection",
     "word": "pedaled",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2728,
+    "entry_type_code": "inflection",
     "word": "pedaling",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2729,
+    "entry_type_code": "inflection",
     "word": "penciled",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2730,
+    "entry_type_code": "inflection",
     "word": "penciling",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2731,
+    "entry_type_code": "inflection",
     "word": "pummeled",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2732,
+    "entry_type_code": "inflection",
     "word": "pummeling",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2733,
+    "entry_type_code": "inflection",
     "word": "raveled",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2734,
+    "entry_type_code": "inflection",
     "word": "raveling",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2735,
+    "entry_type_code": "inflection",
     "word": "refueled",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2736,
+    "entry_type_code": "inflection",
     "word": "refueling",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2737,
+    "entry_type_code": "inflection",
     "word": "remodeled",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2738,
+    "entry_type_code": "inflection",
     "word": "remodeling",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2739,
+    "entry_type_code": "inflection",
     "word": "reveled",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2740,
+    "entry_type_code": "inflection",
     "word": "reveling",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2741,
+    "entry_type_code": "inflection",
     "word": "shoveled",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2742,
+    "entry_type_code": "inflection",
     "word": "shoveling",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2743,
+    "entry_type_code": "inflection",
     "word": "shriveled",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2744,
+    "entry_type_code": "inflection",
     "word": "shriveling",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2745,
+    "entry_type_code": "inflection",
     "word": "signaled",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2746,
+    "entry_type_code": "inflection",
     "word": "signaling",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2747,
+    "entry_type_code": "inflection",
     "word": "sniveled",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2748,
+    "entry_type_code": "inflection",
     "word": "sniveling",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2749,
+    "entry_type_code": "inflection",
     "word": "squirreled",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2750,
+    "entry_type_code": "inflection",
     "word": "squirreling",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2751,
+    "entry_type_code": "inflection",
     "word": "swiveled",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2752,
+    "entry_type_code": "inflection",
     "word": "swiveling",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2754,
+    "entry_type_code": "inflection",
     "word": "totaled",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2755,
+    "entry_type_code": "inflection",
     "word": "totaling",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2756,
+    "entry_type_code": "inflection",
     "word": "trammeled",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2757,
+    "entry_type_code": "inflection",
     "word": "trammeling",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2758,
+    "entry_type_code": "inflection",
     "word": "trialed",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2759,
+    "entry_type_code": "inflection",
     "word": "trialing",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2760,
+    "entry_type_code": "inflection",
     "word": "unraveled",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2761,
+    "entry_type_code": "inflection",
     "word": "unraveling",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2762,
+    "entry_type_code": "inflection",
     "word": "yodeled",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2763,
+    "entry_type_code": "inflection",
     "word": "yodeling",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2921,
+    "entry_type_code": "inflection",
     "word": "buses",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2922,
+    "entry_type_code": "inflection",
     "word": "counselor",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2923,
+    "entry_type_code": "inflection",
     "word": "traveler",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2924,
+    "entry_type_code": "inflection",
     "word": "traveling",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2951,
+    "entry_type_code": "inflection",
     "word": "licenced",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2952,
+    "entry_type_code": "inflection",
     "word": "licencing",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 2953,
+    "entry_type_code": "inflection",
     "word": "practices",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": "Its infinitive form \"practice\" can also be a noun, which is acceptable in every regions."
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": "Its infinitive form \"practice\" can also be a noun, which is acceptable in every regions."
   },
   {
-    "id": 2954,
+    "entry_type_code": "inflection",
     "word": "practiced",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": "Its infinitive form \"practice\" can also be a noun, which is acceptable in every regions."
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": "Its infinitive form \"practice\" can also be a noun, which is acceptable in every regions."
   },
   {
-    "id": 2955,
+    "entry_type_code": "inflection",
     "word": "practicing",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": "Its infinitive form \"practice\" can also be a noun, which is acceptable in every regions."
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": "Its infinitive form \"practice\" can also be a noun, which is acceptable in every regions."
   },
   {
-    "id": 3004,
+    "entry_type_code": "inflection",
     "word": "labeling",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 3005,
+    "entry_type_code": "inflection",
     "word": "traveled",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 3006,
+    "entry_type_code": "inflection",
     "word": "modeled",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 3007,
+    "entry_type_code": "inflection",
     "word": "modeling",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 3008,
+    "entry_type_code": "inflection",
     "word": "equaling",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 3009,
+    "entry_type_code": "inflection",
     "word": "equaled",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 3010,
+    "entry_type_code": "inflection",
     "word": "fueled",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 3011,
+    "entry_type_code": "inflection",
     "word": "fueling",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 3012,
+    "entry_type_code": "inflection",
     "word": "dueled",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 3013,
+    "entry_type_code": "inflection",
     "word": "dueling",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 3014,
+    "entry_type_code": "inflection",
     "word": "bedeviled",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 3015,
+    "entry_type_code": "inflection",
     "word": "bedeviling",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 3016,
+    "entry_type_code": "inflection",
     "word": "bejeweled",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 3017,
+    "entry_type_code": "inflection",
     "word": "beveled",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 3018,
+    "entry_type_code": "inflection",
     "word": "jeweled",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 3042,
+    "entry_type_code": "inflection",
     "word": "panties",
-    "region": "United States",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "us",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 3145,
+    "entry_type_code": "inflection",
     "word": "amn't",
-    "region": "Scotland",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "scot",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 3150,
+    "entry_type_code": "inflection",
     "word": "weer",
-    "region": "Scotland",
-    "source": "Oxford Dictionary of English Second Edition Revised",
-    "notes": null
+    "region_code": "scot",
+    "source_code": "ode_2",
+    "note": null
   },
   {
-    "id": 3151,
+    "entry_type_code": "inflection",
     "word": "weest",
-    "region": "Scotland",
-    "source": "Oxford Dictionary of English Second Edition Revised",
-    "notes": null
+    "region_code": "scot",
+    "source_code": "ode_2",
+    "note": null
   },
   {
-    "id": 3157,
+    "entry_type_code": "inflection",
     "word": "kens",
-    "region": "Scotland",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "scot",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 3158,
+    "entry_type_code": "inflection",
     "word": "kent",
-    "region": "Scotland",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "scot",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 3159,
+    "entry_type_code": "inflection",
     "word": "kenning",
-    "region": "Scotland",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "scot",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 3163,
+    "entry_type_code": "inflection",
     "word": "oughts",
-    "region": "Scotland",
-    "source": "Merriam-Webster's Collegiate Dictionary Eleventh Edition",
-    "notes": null
+    "region_code": "scot",
+    "source_code": "mwcd_11",
+    "note": null
   },
   {
-    "id": 3164,
+    "entry_type_code": "inflection",
     "word": "oughted",
-    "region": "Scotland",
-    "source": "Merriam-Webster's Collegiate Dictionary Eleventh Edition",
-    "notes": null
+    "region_code": "scot",
+    "source_code": "mwcd_11",
+    "note": null
   },
   {
-    "id": 3165,
+    "entry_type_code": "inflection",
     "word": "oughting",
-    "region": "Scotland",
-    "source": "Merriam-Webster's Collegiate Dictionary Eleventh Edition",
-    "notes": null
+    "region_code": "scot",
+    "source_code": "mwcd_11",
+    "note": null
   },
   {
-    "id": 3255,
+    "entry_type_code": "inflection",
     "word": "kens",
-    "region": "New England",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "neng",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 3256,
+    "entry_type_code": "inflection",
     "word": "kenned",
-    "region": "New England",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "neng",
+    "source_code": "oald_8",
+    "note": null
   },
   {
-    "id": 3257,
+    "entry_type_code": "inflection",
     "word": "kenning",
-    "region": "New England",
-    "source": "Oxford Advanced  Learner's Dictionary 8th Edition",
-    "notes": null
+    "region_code": "neng",
+    "source_code": "oald_8",
+    "note": null
   }
 ]

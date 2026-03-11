@@ -15,32 +15,15 @@ def make_json_file(csv_file):
             if not row['word']:
                 continue 
             entry = {
-                "id": int(row['id']) if row['id'] else None,
+                "entry_type_code": row['entry_type_code'].strip() if row['entry_type_code'] else None,
                 "word": row['word'].strip() if row['word'] else None,
-                "region": row['region'].strip() if row['region'] else None,
-                #"North America": row['NAme'].strip(),
-                #"United States": row['US'].strip(),
-                #"Canada": row['Can'].strip(),
-                #"Australia": row['Austral'].strip(),
-                #"New Zealand": row['NZ'].strip(),
-                #"Scotland": row['Scot'].strip(),
-                #"Ireland": row['Irish'].strip(),
-                #"India": row['Ind'].strip(),
-                #"East Africa": row['EAfr'].strip(),
-                #"West Africa": row['WAfr'].strip(),
-                #"South Africa": row['SAfr'].strip(),
-                #"North Africa": row['NAfr'].strip(),
-                #"New England": row['NEng'].strip(),
-                #"East Asia": row['EAsi'].strip(),
-                #"West Asia": row['WAsi'].strip(),
-                #"South Asia": row['SAsi'].strip(),
-                #"South-East Asia": row['SEAsi'].strip(),
-                "source": row['source'].strip() if row['source'] else None,
-                "notes": row['note'].strip() if row['note'] else None
+                "region_code": row['region_code'].strip() if row['region_code'] else None,
+                "source_code": row['source_code'].strip() if row['source_code'] else None,
+                "note": row['note'].strip() if row['note'] else None
             }
-            if row['category'].strip().lower() == 'inflection':
+            if row['entry_type_code'].strip().lower() == 'inflection':
                 data_inflection.append(entry)
-            elif row['category'].strip().lower() == 'phrase':
+            elif row['entry_type_code'].strip().lower() == 'phrase':
                 data_phrase.append(entry)
             else:
                 data_root.append(entry)
