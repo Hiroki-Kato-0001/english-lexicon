@@ -2,7 +2,12 @@ import csv
 from db_config import get_connection
 
 
+conn = get_connection()
+cursor = conn.cursor(dictionary=True)
+
 def get_or_create_id(table, code, name=None):
+
+
     cursor.execute(
         f"SELECT id FROM {table} WHERE code = %s",
         (code,)
@@ -32,8 +37,6 @@ def get_or_create_id(table, code, name=None):
 
 def csv_to_db(csv_file):
 
-    conn = get_connection()
-    cursor = conn.cursor(dictionary=True)
 
     try:
         with open(csv_file, newline="", encoding="utf-8") as f:
