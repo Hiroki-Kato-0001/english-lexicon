@@ -28,6 +28,8 @@ def fetch_wikipedia_article(page_link):
         text = re.sub(r'\s+', ' ', text).strip()
         text = text.replace('=', '')
 
+        print("Text length after cleaning:", len(text))
+
         return {
             "title": page.title,
             "url": page_link,
