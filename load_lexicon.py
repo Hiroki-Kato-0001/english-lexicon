@@ -1,9 +1,4 @@
-from db_config import get_connection
-
-def load_lexicon():
-
-    conn = get_connection()
-    cursor = conn.cursor(dictionary=True)
+def load_lexicon(conn, cursor):
 
     cursor.execute("""
                 SELECT
@@ -19,7 +14,7 @@ def load_lexicon():
     
     data = cursor.fetchall()
 
-    cursor.close()
-    conn.close()
+    print(type(data))
+    print(data[:5])
 
     return data
