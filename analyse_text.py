@@ -2,7 +2,14 @@ import re
 import spacy
 import collections
 
-def analyze_text(text, data):
+def load_id_map(cursor, table):
+    cursor.execute(f"SELECT id, name FROM {table}")
+    return {row['name']: row['id'] for row in cursor.fetchall()}
+
+
+def analyze_text(conn, cursor, file_or_url, text, data):
+
+    results_to_insert = []
 
     uk_count = 0
     name_count = 0
@@ -23,6 +30,9 @@ def analyze_text(text, data):
     sasi_count = 0
     seasi_count = 0
 
+    entry_type_map = load_id_map(cursor, "entry_types")
+    region_map = load_id_map(cursor, "regions")
+
     for entry in data:
 
         if entry['entry_type'] == "Inflection" or entry['entry_type'] == "Phrase":
@@ -30,10 +40,11 @@ def analyze_text(text, data):
             pattern = rf"\b{re.escape(word)}\b"
             matches = re.findall(pattern, text)
             count = len(matches)
-            region = entry['region']
-
+            
             if count == 0:
                 continue
+            
+            region = entry['region']            
 
             if region == "United Kingdom":
                 uk_count += count
@@ -89,6 +100,30 @@ def analyze_text(text, data):
             if region == "South-East Asia":
                 seasi_count += count
                 print(f"matched inflection/phrase South-East Asia:{word} x {count}")
+            
+# Add the results to the list for database insertion
+#
+#        entry_type_id = entry_type_map[entry['entry_type']]
+#        region_id = region_map[region]
+#
+#        results_to_insert.append((
+#            file_or_url, 
+#            word, 
+#            entry_type_id, 
+#            region_id, 
+#            count
+#        ))
+#
+# Insert the results into the database
+#    if results_to_insert:
+#        cursor.executemany("""
+#            INSERT INTO analysis_results
+#            (file_or_url, word, entry_type_id, region_id, count)
+#            VALUES (%s, %s, %s, %s, %s)
+#        """, results_to_insert)
+#
+#        conn.commit()
+#    print(f"Inserted {len(results_to_insert)} analysis results into the database.")
     
     print(f"After analyzing the text, the inflection and phrase counts are: uk_count={uk_count}, name_count={name_count}, us_count={us_count}, can_count={can_count}, austral_count={austral_count}, nz_count={nz_count}, scot_count={scot_count}, irish_count={irish_count}, ind_count={ind_count}, eafr_count={eafr_count}, wafr_count={wafr_count}, safr_count={safr_count}, welsh_count={welsh_count}, neng_count={neng_count}, easi_count={easi_count}, wasi_count={wasi_count}, sasi_count={sasi_count}, seasi_count={seasi_count}")
     return uk_count, name_count, us_count, can_count, austral_count, nz_count, scot_count, irish_count, ind_count, eafr_count, wafr_count, safr_count, welsh_count, neng_count, easi_count, wasi_count, sasi_count, seasi_count
@@ -99,14 +134,18 @@ nlp = spacy.load("en_core_web_sm")
 nlp.max_length = 6000000
 
 
-def analyze_text_with_spacy(text, data, uk_count, name_count, us_count, can_count, austral_count,
+def analyze_text_with_spacy(conn, cursor, file_or_url, text, data, uk_count, name_count, us_count, can_count, austral_count,
                              nz_count, scot_count, irish_count, ind_count, eafr_count, wafr_count, safr_count,
                              welsh_count, neng_count, easi_count, wasi_count, sasi_count, seasi_count):
+
+    results_to_insert = []
 
     doc = nlp(text)
     lemmas = [token.lemma_ for token in doc]
     dict_counter = collections.Counter(lemmas)
     
+    entry_type_map = load_id_map(cursor, "entry_types")
+    region_map = load_id_map(cursor, "regions")
 
     for entry in data:
 
@@ -114,10 +153,11 @@ def analyze_text_with_spacy(text, data, uk_count, name_count, us_count, can_coun
 
             word = entry['word']
             count = dict_counter[word]
-            region = entry['region']
 
             if count == 0:
                 continue
+
+            region = entry['region']
                 
             if region == "United Kingdom":
                 uk_count += count
@@ -174,9 +214,34 @@ def analyze_text_with_spacy(text, data, uk_count, name_count, us_count, can_coun
                 seasi_count += count
                 print(f"matched root South-East Asia:{word} x {count}")
 
+
+# Add the results to the list for database insertion
+
+#        entry_type_id = entry_type_map[entry['entry_type']]
+#        region_id = region_map[region]
+#
+#        results_to_insert.append((
+#            file_or_url, 
+#            word, 
+#            entry_type_id, 
+#            region_id, 
+#            count
+#        ))
+#
+# Insert the results into the database
+#    if results_to_insert:
+#        cursor.executemany("""
+#            INSERT INTO analysis_results
+#            (file_or_url, word, entry_type_id, region_id, count)
+#            VALUES (%s, %s, %s, %s, %s)
+#        """, results_to_insert)
+#
+#        conn.commit()
+#    print(f"Inserted {len(results_to_insert)} analysis results into the database.")
+#
     print(f"After analyzing the text with spaCy, the final counts are: uk_count={uk_count}, name_count={name_count}, us_count={us_count}, can_count={can_count}, austral_count={austral_count}, nz_count={nz_count}, scot_count={scot_count}, irish_count={irish_count}, ind_count={ind_count}, eafr_count={eafr_count}, wafr_count={wafr_count}, safr_count={safr_count}, welsh_count={welsh_count}, neng_count={neng_count}, easi_count={easi_count}, wasi_count={wasi_count}, sasi_count={sasi_count}, seasi_count={seasi_count}")
     total = uk_count + name_count + us_count + can_count + austral_count + nz_count + scot_count + irish_count + ind_count + eafr_count + wafr_count + safr_count + welsh_count + neng_count + easi_count + wasi_count + sasi_count + seasi_count
-    
+
     return {
         "uk_count": uk_count,
         "name_count": name_count,
