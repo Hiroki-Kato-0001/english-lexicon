@@ -5,14 +5,25 @@ from load_text_file import load_text_from_txt
 from load_pdf_file import load_text_from_pdf
 from analyse_text import analyze_text, analyze_text_with_spacy
 from visualise import plot_region_bar
+from db_config import get_connection
+
+# Get database connection
+conn = get_connection()
+cursor = conn.cursor(dictionary=True)
+
+def get_id_by_name(conn, cursor, table, name):
+    cursor.execute(
+        f"SELECT id FROM {table} WHERE name = %s",
+        (name,)
+    )
+    result = cursor.fetchone()
+    return result['id'] if result else None
 
 csv_file = "lexicon - raw data.csv"
 
 # Import CSV data into MySQL database
 print("Importing CSV into MySQL database...")
-
-csv_to_db(csv_file)
-
+csv_to_db(conn, cursor, csv_file)
 print("Done.")
 
 # Fetch a text from Wikipedia/TXT/PDF
@@ -36,14 +47,19 @@ print(f"Fetched text: {text[:100]}...")
 
 # Load lexicon data from MySQL database
 print("Loading lexicon data from MySQL database...")
-data = load_lexicon()
+data = load_lexicon(conn, cursor)
 print(f"Loaded {len(data)} lexicon entries.")
 
 # Analyze the text using the lexicon data
-print("Analyzing the text with the inflection and phrase lexicon data...")
-inflection_and_phrase_counts = analyze_text(text, data)
-print("Analysing the text with the root lexicon data")
-final_counts = analyze_text_with_spacy(text, data, *inflection_and_phrase_counts)
+try:
+    print("Analyzing the text with the inflection and phrase lexicon data...")
+    inflection_and_phrase_counts = analyze_text(conn, cursor, link_or_path, text, data)
+
+    print("Analyzing the text with the root lexicon data")
+    final_counts = analyze_text_with_spacy(conn, cursor, link_or_path, text, data, *inflection_and_phrase_counts)
+finally:
+    cursor.close()
+    conn.close()
 
 # Visualize the results
 print("Visualizing the results...")
