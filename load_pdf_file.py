@@ -21,4 +21,6 @@ def load_text_from_pdf(path):
 
     text = text.replace('\n', ' ')
     
+    print(f"Total extracted text length: {len(text)} characters")
+
     return text
