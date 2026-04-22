@@ -2,6 +2,7 @@ def load_lexicon(conn, cursor):
 
     cursor.execute("""
                 SELECT
+                    lexicon_entries.id AS lexicon_entry_id,
                     lexicon_entries.word,
                     regions.name AS region,
                     entry_types.name AS entry_type
@@ -15,6 +16,5 @@ def load_lexicon(conn, cursor):
     data = cursor.fetchall()
 
     print(type(data))
-    print(data[:5])
 
     return data
