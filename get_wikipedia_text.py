@@ -27,6 +27,8 @@ def fetch_wikipedia_article(page_link):
         text = re.sub(r'\[\d+\]', '', text)
         text = re.sub(r'\s+', ' ', text).strip()
         text = text.replace('=', '')
+        text = text.lower()
+        text = text.strip()
 
         print("Text length after cleaning:", len(text))
 

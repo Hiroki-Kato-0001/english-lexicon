@@ -1,6 +1,7 @@
 from pypdf import PdfReader
 from pdf2image import convert_from_path
 import pytesseract
+import re
 
 def load_text_from_pdf(path):
     reader = PdfReader(path)
@@ -19,8 +20,11 @@ def load_text_from_pdf(path):
             ocr_text = pytesseract.image_to_string(images[i], lang="eng")
             text += ocr_text
 
-    text = text.replace('\n', ' ')
-    
+    text = re.sub('\n', ' ', text)
+    text = re.sub('\s+', ' ', text)
+    text = text.lower()
+    text = text.strip()
+
     print(f"Total extracted text length: {len(text)} characters")
 
     return text
