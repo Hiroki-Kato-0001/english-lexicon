@@ -43,20 +43,27 @@ else:
     text = article["content"]
 
 text = text.lower()
-print(f"Fetched text: {text[:100]}...")
+print(f"Fetched text: {text[10000:10100]}...")
 
 # Load lexicon data from MySQL database
 print("Loading lexicon data from MySQL database...")
 data = load_lexicon(conn, cursor)
 print(f"Loaded {len(data)} lexicon entries.")
 
+# Create a new analysis record
+cursor.execute("""
+    INSERT INTO analysis (file_or_url) VALUES (%s)
+""", (link_or_path,))
+analysis_id = cursor.lastrowid
+conn.commit()
+
 # Analyze the text using the lexicon data
 try:
     print("Analyzing the text with the inflection and phrase lexicon data...")
-    inflection_and_phrase_counts = analyze_text(conn, cursor, link_or_path, text, data)
+    inflection_and_phrase_counts = analyze_text(conn, cursor, text, data, analysis_id)
 
     print("Analyzing the text with the root lexicon data")
-    final_counts = analyze_text_with_spacy(conn, cursor, link_or_path, text, data, *inflection_and_phrase_counts)
+    final_counts = analyze_text_with_spacy(conn, cursor, text, data, analysis_id, *inflection_and_phrase_counts)
 finally:
     cursor.close()
     conn.close()

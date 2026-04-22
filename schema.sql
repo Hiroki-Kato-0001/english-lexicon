@@ -32,13 +32,17 @@ CREATE TABLE lexicon_entries (
     FOREIGN KEY (region_id) REFERENCES regions(id)
 );
 
-CREATE TABLE analysis_results (
+CREATE TABLE analysis (
     id INT AUTO_INCREMENT PRIMARY KEY,
     file_or_url VARCHAR(255) NOT NULL,
-    entry_type_id INT NOT NULL,
-    region_id INT NOT NULL,
+    analyzed_at DATETIME DEFAULT CURRENT_TIMESTAMP
+)
+
+CREATE TABLE analysis_results (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    analysis_id INT NOT NULL,
+    lexicon_entry_id INT NOT NULL,
     count INT NOT NULL,
-    analyzed_at DATETIME DEFAULT CURRENT_TIMESTAMP,
-    FOREIGN KEY (entry_type_id) REFERENCES entry_types(id),
-    FOREIGN KEY (region_id) REFERENCES regions(id)
+    FOREIGN KEY (analysis_id) REFERENCES analysis(id),
+    FOREIGN KEY (lexicon_entry_id) REFERENCES lexicon_entries(id)
 );
